@@ -1,0 +1,1809 @@
+,Country,Continent,democracy,regime,start_year,duration,observed,Period
+0,Afghanistan,Asia,Non-democracy,Monarchy,1946,7,1,Early
+1,Afghanistan,Asia,Non-democracy,Civilian Dict,1953,10,1,Early
+2,Afghanistan,Asia,Non-democracy,Monarchy,1963,10,1,Early
+3,Afghanistan,Asia,Non-democracy,Civilian Dict,1973,5,0,Middle
+4,Afghanistan,Asia,Non-democracy,Civilian Dict,1978,1,0,Middle
+5,Afghanistan,Asia,Non-democracy,Civilian Dict,1979,6,1,Middle
+6,Afghanistan,Asia,Non-democracy,Civilian Dict,1985,7,1,Middle
+7,Afghanistan,Asia,Non-democracy,Civilian Dict,1992,4,1,Late
+8,Afghanistan,Asia,Non-democracy,Civilian Dict,1996,5,0,Late
+9,Afghanistan,Asia,Non-democracy,Civilian Dict,2001,8,0,Late
+10,Albania,Europe,Non-democracy,Military Dict,1946,39,0,Early
+11,Albania,Europe,Non-democracy,Civilian Dict,1985,6,1,Middle
+12,Albania,Europe,Democracy,Parliamentary Dem,1991,1,1,Late
+13,Albania,Europe,Democracy,Parliamentary Dem,1992,5,1,Late
+14,Albania,Europe,Democracy,Parliamentary Dem,1997,1,1,Late
+15,Albania,Europe,Democracy,Parliamentary Dem,1998,1,1,Late
+16,Albania,Europe,Democracy,Parliamentary Dem,1999,3,1,Late
+17,Albania,Europe,Democracy,Parliamentary Dem,2002,3,1,Late
+18,Albania,Europe,Democracy,Parliamentary Dem,2005,4,0,Late
+19,Algeria,Africa,Non-democracy,Civilian Dict,1962,3,1,Early
+20,Algeria,Africa,Non-democracy,Military Dict,1965,13,0,Early
+21,Algeria,Africa,Non-democracy,Military Dict,1978,1,1,Middle
+22,Algeria,Africa,Non-democracy,Military Dict,1979,13,1,Middle
+23,Algeria,Africa,Non-democracy,Military Dict,1992,2,1,Late
+24,Algeria,Africa,Non-democracy,Military Dict,1994,5,1,Late
+25,Algeria,Africa,Non-democracy,Civilian Dict,1999,10,0,Late
+26,Andorra,Europe,Democracy,Parliamentary Dem,1993,1,1,Late
+27,Andorra,Europe,Democracy,Parliamentary Dem,1994,11,1,Late
+28,Andorra,Europe,Democracy,Parliamentary Dem,2005,4,0,Late
+29,Angola,Africa,Non-democracy,Civilian Dict,1975,4,0,Middle
+30,Angola,Africa,Non-democracy,Civilian Dict,1979,30,0,Middle
+31,Antigua & Barbuda,Americas,Democracy,Parliamentary Dem,1981,13,1,Middle
+32,Antigua & Barbuda,Americas,Democracy,Parliamentary Dem,1994,10,1,Late
+33,Antigua & Barbuda,Americas,Democracy,Parliamentary Dem,2004,5,0,Late
+34,Argentina,Americas,Democracy,Presidential Dem,1946,9,1,Early
+35,Argentina,Americas,Non-democracy,Military Dict,1955,3,1,Early
+36,Argentina,Americas,Democracy,Presidential Dem,1958,4,1,Early
+37,Argentina,Americas,Non-democracy,Military Dict,1962,1,1,Early
+38,Argentina,Americas,Democracy,Presidential Dem,1963,3,1,Early
+39,Argentina,Americas,Non-democracy,Military Dict,1966,4,1,Middle
+40,Argentina,Americas,Non-democracy,Military Dict,1970,1,1,Middle
+41,Argentina,Americas,Non-democracy,Military Dict,1971,2,1,Middle
+42,Argentina,Americas,Democracy,Presidential Dem,1973,1,0,Middle
+43,Argentina,Americas,Democracy,Presidential Dem,1974,2,1,Middle
+44,Argentina,Americas,Non-democracy,Military Dict,1976,5,1,Middle
+45,Argentina,Americas,Non-democracy,Military Dict,1981,1,1,Middle
+46,Argentina,Americas,Non-democracy,Military Dict,1982,1,1,Middle
+47,Argentina,Americas,Democracy,Presidential Dem,1983,6,1,Middle
+48,Argentina,Americas,Democracy,Presidential Dem,1989,10,1,Late
+49,Argentina,Americas,Democracy,Presidential Dem,1999,2,1,Late
+50,Argentina,Americas,Democracy,Presidential Dem,2001,1,1,Late
+51,Argentina,Americas,Democracy,Presidential Dem,2002,3,1,Late
+52,Argentina,Americas,Democracy,Presidential Dem,2005,2,1,Late
+53,Argentina,Americas,Democracy,Presidential Dem,2007,2,0,Late
+54,Armenia,Asia,Democracy,Mixed Dem,1991,4,1,Late
+55,Armenia,Asia,Democracy,Mixed Dem,1995,1,1,Late
+56,Armenia,Asia,Democracy,Mixed Dem,1996,1,1,Late
+57,Armenia,Asia,Democracy,Mixed Dem,1997,1,1,Late
+58,Armenia,Asia,Democracy,Mixed Dem,1998,1,1,Late
+59,Armenia,Asia,Democracy,Mixed Dem,1999,1,1,Late
+60,Armenia,Asia,Democracy,Mixed Dem,2000,7,0,Late
+61,Armenia,Asia,Democracy,Mixed Dem,2007,1,1,Late
+62,Armenia,Asia,Democracy,Mixed Dem,2008,1,0,Late
+63,Australia,Oceania,Democracy,Parliamentary Dem,1946,3,1,Early
+64,Australia,Oceania,Democracy,Parliamentary Dem,1949,17,1,Early
+65,Australia,Oceania,Democracy,Parliamentary Dem,1966,1,0,Middle
+66,Australia,Oceania,Democracy,Parliamentary Dem,1967,1,1,Middle
+67,Australia,Oceania,Democracy,Parliamentary Dem,1968,3,1,Middle
+68,Australia,Oceania,Democracy,Parliamentary Dem,1971,1,1,Middle
+69,Australia,Oceania,Democracy,Parliamentary Dem,1972,3,1,Middle
+70,Australia,Oceania,Democracy,Parliamentary Dem,1975,8,1,Middle
+71,Australia,Oceania,Democracy,Parliamentary Dem,1983,8,1,Middle
+72,Australia,Oceania,Democracy,Parliamentary Dem,1991,5,1,Late
+73,Australia,Oceania,Democracy,Parliamentary Dem,1996,11,1,Late
+74,Australia,Oceania,Democracy,Parliamentary Dem,2007,2,0,Late
+75,Austria,Europe,Democracy,Mixed Dem,1946,7,1,Early
+76,Austria,Europe,Democracy,Mixed Dem,1953,8,1,Early
+77,Austria,Europe,Democracy,Mixed Dem,1961,3,1,Early
+78,Austria,Europe,Democracy,Mixed Dem,1964,6,1,Early
+79,Austria,Europe,Democracy,Mixed Dem,1970,13,1,Middle
+80,Austria,Europe,Democracy,Mixed Dem,1983,3,1,Middle
+81,Austria,Europe,Democracy,Mixed Dem,1986,11,1,Late
+82,Austria,Europe,Democracy,Mixed Dem,1997,3,1,Late
+83,Austria,Europe,Democracy,Mixed Dem,2000,7,1,Late
+84,Austria,Europe,Democracy,Mixed Dem,2007,2,0,Late
+85,Azerbaijan,Asia,Non-democracy,Civilian Dict,1991,1,1,Late
+86,Azerbaijan,Asia,Non-democracy,Civilian Dict,1992,1,1,Late
+87,Azerbaijan,Asia,Non-democracy,Civilian Dict,1993,10,0,Late
+88,Azerbaijan,Asia,Non-democracy,Civilian Dict,2003,6,0,Late
+89,Bahamas,Americas,Democracy,Parliamentary Dem,1973,19,1,Middle
+90,Bahamas,Americas,Democracy,Parliamentary Dem,1992,10,1,Late
+91,Bahamas,Americas,Democracy,Parliamentary Dem,2002,5,1,Late
+92,Bahamas,Americas,Democracy,Parliamentary Dem,2007,2,0,Late
+93,Bahrain,Asia,Non-democracy,Monarchy,1971,28,0,Middle
+94,Bahrain,Asia,Non-democracy,Monarchy,1999,10,0,Late
+95,Bangladesh,Asia,Non-democracy,Civilian Dict,1971,1,1,Middle
+96,Bangladesh,Asia,Non-democracy,Civilian Dict,1972,3,0,Middle
+97,Bangladesh,Asia,Non-democracy,Civilian Dict,1975,2,1,Middle
+98,Bangladesh,Asia,Non-democracy,Military Dict,1977,4,0,Middle
+99,Bangladesh,Asia,Non-democracy,Civilian Dict,1981,1,1,Middle
+100,Bangladesh,Asia,Non-democracy,Military Dict,1982,4,1,Middle
+101,Bangladesh,Asia,Democracy,Mixed Dem,1986,4,1,Late
+102,Bangladesh,Asia,Democracy,Mixed Dem,1990,1,1,Late
+103,Bangladesh,Asia,Democracy,Parliamentary Dem,1991,5,1,Late
+104,Bangladesh,Asia,Democracy,Parliamentary Dem,1996,5,1,Late
+105,Bangladesh,Asia,Democracy,Parliamentary Dem,2001,6,1,Late
+106,Bangladesh,Asia,Non-democracy,Military Dict,2007,1,1,Late
+107,Bangladesh,Asia,Non-democracy,Civilian Dict,2008,1,0,Late
+108,Barbados,Americas,Democracy,Parliamentary Dem,1966,10,1,Middle
+109,Barbados,Americas,Democracy,Parliamentary Dem,1976,9,0,Middle
+110,Barbados,Americas,Democracy,Parliamentary Dem,1985,1,1,Middle
+111,Barbados,Americas,Democracy,Parliamentary Dem,1986,1,0,Late
+112,Barbados,Americas,Democracy,Parliamentary Dem,1987,7,1,Late
+113,Barbados,Americas,Democracy,Parliamentary Dem,1994,14,1,Late
+114,Barbados,Americas,Democracy,Parliamentary Dem,2008,1,0,Late
+115,Belarus,Europe,Non-democracy,Civilian Dict,1991,3,1,Late
+116,Belarus,Europe,Non-democracy,Civilian Dict,1994,15,0,Late
+117,Belgium,Europe,Democracy,Parliamentary Dem,1946,1,1,Early
+118,Belgium,Europe,Democracy,Parliamentary Dem,1947,2,1,Early
+119,Belgium,Europe,Democracy,Parliamentary Dem,1949,1,1,Early
+120,Belgium,Europe,Democracy,Parliamentary Dem,1950,2,1,Early
+121,Belgium,Europe,Democracy,Parliamentary Dem,1952,2,1,Early
+122,Belgium,Europe,Democracy,Parliamentary Dem,1954,4,1,Early
+123,Belgium,Europe,Democracy,Parliamentary Dem,1958,3,1,Early
+124,Belgium,Europe,Democracy,Parliamentary Dem,1961,4,1,Early
+125,Belgium,Europe,Democracy,Parliamentary Dem,1965,1,1,Early
+126,Belgium,Europe,Democracy,Parliamentary Dem,1966,2,1,Middle
+127,Belgium,Europe,Democracy,Parliamentary Dem,1968,5,1,Middle
+128,Belgium,Europe,Democracy,Parliamentary Dem,1973,1,1,Middle
+129,Belgium,Europe,Democracy,Parliamentary Dem,1974,4,1,Middle
+130,Belgium,Europe,Democracy,Parliamentary Dem,1978,1,1,Middle
+131,Belgium,Europe,Democracy,Parliamentary Dem,1979,13,1,Middle
+132,Belgium,Europe,Democracy,Parliamentary Dem,1992,7,1,Late
+133,Belgium,Europe,Democracy,Parliamentary Dem,1999,9,1,Late
+134,Belgium,Europe,Democracy,Parliamentary Dem,2008,1,0,Late
+135,Belize,Americas,Democracy,Parliamentary Dem,1981,3,1,Middle
+136,Belize,Americas,Democracy,Parliamentary Dem,1984,5,1,Middle
+137,Belize,Americas,Democracy,Parliamentary Dem,1989,4,1,Late
+138,Belize,Americas,Democracy,Parliamentary Dem,1993,5,1,Late
+139,Belize,Americas,Democracy,Parliamentary Dem,1998,10,1,Late
+140,Belize,Americas,Democracy,Parliamentary Dem,2008,1,0,Late
+141,Benin,Africa,Non-democracy,Civilian Dict,1960,3,1,Early
+142,Benin,Africa,Non-democracy,Military Dict,1963,4,1,Early
+143,Benin,Africa,Non-democracy,Military Dict,1967,1,1,Middle
+144,Benin,Africa,Non-democracy,Military Dict,1968,2,1,Middle
+145,Benin,Africa,Non-democracy,Civilian Dict,1970,2,1,Middle
+146,Benin,Africa,Non-democracy,Military Dict,1972,19,1,Middle
+147,Benin,Africa,Democracy,Presidential Dem,1991,5,1,Late
+148,Benin,Africa,Democracy,Presidential Dem,1996,10,1,Late
+149,Benin,Africa,Democracy,Presidential Dem,2006,3,0,Late
+150,Bhutan,Asia,Non-democracy,Monarchy,1946,6,0,Early
+151,Bhutan,Asia,Non-democracy,Monarchy,1952,20,0,Early
+152,Bhutan,Asia,Non-democracy,Monarchy,1972,35,1,Middle
+153,Bhutan,Asia,Democracy,Parliamentary Dem,2007,1,1,Late
+154,Bhutan,Asia,Democracy,Parliamentary Dem,2008,1,0,Late
+155,Bolivia,Americas,Non-democracy,Military Dict,1946,1,1,Early
+156,Bolivia,Americas,Non-democracy,Civilian Dict,1947,2,1,Early
+157,Bolivia,Americas,Non-democracy,Civilian Dict,1949,2,1,Early
+158,Bolivia,Americas,Non-democracy,Military Dict,1951,1,1,Early
+159,Bolivia,Americas,Non-democracy,Civilian Dict,1952,4,1,Early
+160,Bolivia,Americas,Non-democracy,Civilian Dict,1956,4,1,Early
+161,Bolivia,Americas,Non-democracy,Civilian Dict,1960,4,1,Early
+162,Bolivia,Americas,Non-democracy,Military Dict,1964,1,1,Early
+163,Bolivia,Americas,Non-democracy,Military Dict,1965,1,1,Early
+164,Bolivia,Americas,Non-democracy,Military Dict,1966,3,0,Middle
+165,Bolivia,Americas,Non-democracy,Military Dict,1969,1,1,Middle
+166,Bolivia,Americas,Non-democracy,Military Dict,1970,1,1,Middle
+167,Bolivia,Americas,Non-democracy,Military Dict,1971,7,1,Middle
+168,Bolivia,Americas,Non-democracy,Military Dict,1978,1,1,Middle
+169,Bolivia,Americas,Democracy,Presidential Dem,1979,1,1,Middle
+170,Bolivia,Americas,Non-democracy,Military Dict,1980,1,1,Middle
+171,Bolivia,Americas,Non-democracy,Military Dict,1981,1,1,Middle
+172,Bolivia,Americas,Democracy,Presidential Dem,1982,3,1,Middle
+173,Bolivia,Americas,Democracy,Presidential Dem,1985,4,1,Middle
+174,Bolivia,Americas,Democracy,Presidential Dem,1989,4,1,Late
+175,Bolivia,Americas,Democracy,Presidential Dem,1993,4,1,Late
+176,Bolivia,Americas,Democracy,Presidential Dem,1997,4,1,Late
+177,Bolivia,Americas,Democracy,Presidential Dem,2001,1,1,Late
+178,Bolivia,Americas,Democracy,Presidential Dem,2002,1,1,Late
+179,Bolivia,Americas,Democracy,Presidential Dem,2003,2,1,Late
+180,Bolivia,Americas,Democracy,Presidential Dem,2005,1,1,Late
+181,Bolivia,Americas,Democracy,Presidential Dem,2006,3,0,Late
+182,Bosnia and Herzegovina,Europe,Non-democracy,Civilian Dict,1991,7,1,Late
+183,Bosnia and Herzegovina,Europe,Non-democracy,Civilian Dict,1998,1,1,Late
+184,Bosnia and Herzegovina,Europe,Non-democracy,Civilian Dict,1999,1,1,Late
+185,Bosnia and Herzegovina,Europe,Non-democracy,Civilian Dict,2000,1,1,Late
+186,Bosnia and Herzegovina,Europe,Non-democracy,Civilian Dict,2001,1,1,Late
+187,Bosnia and Herzegovina,Europe,Non-democracy,Civilian Dict,2002,1,1,Late
+188,Bosnia and Herzegovina,Europe,Non-democracy,Civilian Dict,2003,1,1,Late
+189,Bosnia and Herzegovina,Europe,Non-democracy,Civilian Dict,2004,1,1,Late
+190,Bosnia and Herzegovina,Europe,Non-democracy,Civilian Dict,2005,1,1,Late
+191,Bosnia and Herzegovina,Europe,Non-democracy,Civilian Dict,2006,1,1,Late
+192,Bosnia and Herzegovina,Europe,Non-democracy,Civilian Dict,2007,1,1,Late
+193,Bosnia and Herzegovina,Europe,Non-democracy,Civilian Dict,2008,1,0,Late
+194,Botswana,Africa,Non-democracy,Civilian Dict,1966,14,0,Middle
+195,Botswana,Africa,Non-democracy,Civilian Dict,1980,18,1,Middle
+196,Botswana,Africa,Non-democracy,Civilian Dict,1998,10,1,Late
+197,Botswana,Africa,Non-democracy,Military Dict,2008,1,0,Late
+198,Brazil,Americas,Democracy,Presidential Dem,1946,5,1,Early
+199,Brazil,Americas,Democracy,Presidential Dem,1951,3,0,Early
+200,Brazil,Americas,Democracy,Presidential Dem,1954,1,1,Early
+201,Brazil,Americas,Democracy,Presidential Dem,1955,1,1,Early
+202,Brazil,Americas,Democracy,Presidential Dem,1956,5,1,Early
+203,Brazil,Americas,Democracy,Mixed Dem,1961,1,1,Early
+204,Brazil,Americas,Democracy,Mixed Dem,1962,1,1,Early
+205,Brazil,Americas,Democracy,Presidential Dem,1963,1,1,Early
+206,Brazil,Americas,Non-democracy,Military Dict,1964,3,1,Early
+207,Brazil,Americas,Non-democracy,Military Dict,1967,2,1,Middle
+208,Brazil,Americas,Non-democracy,Military Dict,1969,5,1,Middle
+209,Brazil,Americas,Non-democracy,Military Dict,1974,5,1,Middle
+210,Brazil,Americas,Non-democracy,Military Dict,1979,6,1,Middle
+211,Brazil,Americas,Democracy,Presidential Dem,1985,5,1,Middle
+212,Brazil,Americas,Democracy,Presidential Dem,1990,2,1,Late
+213,Brazil,Americas,Democracy,Presidential Dem,1992,3,1,Late
+214,Brazil,Americas,Democracy,Presidential Dem,1995,8,1,Late
+215,Brazil,Americas,Democracy,Presidential Dem,2003,6,0,Late
+216,Brunei Darussalam,Asia,Non-democracy,Monarchy,1984,25,0,Middle
+217,Bulgaria,Europe,Non-democracy,Civilian Dict,1946,3,0,Early
+218,Bulgaria,Europe,Non-democracy,Civilian Dict,1949,1,0,Early
+219,Bulgaria,Europe,Non-democracy,Civilian Dict,1950,4,1,Early
+220,Bulgaria,Europe,Non-democracy,Civilian Dict,1954,35,1,Early
+221,Bulgaria,Europe,Non-democracy,Civilian Dict,1989,1,1,Late
+222,Bulgaria,Europe,Democracy,Mixed Dem,1990,1,1,Late
+223,Bulgaria,Europe,Democracy,Mixed Dem,1991,1,1,Late
+224,Bulgaria,Europe,Democracy,Mixed Dem,1992,2,1,Late
+225,Bulgaria,Europe,Democracy,Mixed Dem,1994,1,1,Late
+226,Bulgaria,Europe,Democracy,Mixed Dem,1995,2,1,Late
+227,Bulgaria,Europe,Democracy,Mixed Dem,1997,4,1,Late
+228,Bulgaria,Europe,Democracy,Mixed Dem,2001,4,1,Late
+229,Bulgaria,Europe,Democracy,Mixed Dem,2005,4,0,Late
+230,Burkina Faso,Africa,Non-democracy,Civilian Dict,1960,6,1,Early
+231,Burkina Faso,Africa,Non-democracy,Military Dict,1966,14,1,Middle
+232,Burkina Faso,Africa,Non-democracy,Military Dict,1980,2,1,Middle
+233,Burkina Faso,Africa,Non-democracy,Military Dict,1982,1,1,Middle
+234,Burkina Faso,Africa,Non-democracy,Military Dict,1983,4,0,Middle
+235,Burkina Faso,Africa,Non-democracy,Military Dict,1987,22,0,Late
+236,Burundi,Africa,Non-democracy,Monarchy,1962,4,1,Early
+237,Burundi,Africa,Non-democracy,Military Dict,1966,10,1,Middle
+238,Burundi,Africa,Non-democracy,Military Dict,1976,11,1,Middle
+239,Burundi,Africa,Non-democracy,Military Dict,1987,6,1,Late
+240,Burundi,Africa,Democracy,Presidential Dem,1993,1,1,Late
+241,Burundi,Africa,Democracy,Presidential Dem,1994,2,1,Late
+242,Burundi,Africa,Non-democracy,Military Dict,1996,7,1,Late
+243,Burundi,Africa,Non-democracy,Civilian Dict,2003,2,1,Late
+244,Burundi,Africa,Democracy,Presidential Dem,2005,4,0,Late
+245,Cambodia,Asia,Non-democracy,Monarchy,1953,2,1,Early
+246,Cambodia,Asia,Non-democracy,Civilian Dict,1955,11,1,Early
+247,Cambodia,Asia,Non-democracy,Military Dict,1966,1,1,Middle
+248,Cambodia,Asia,Non-democracy,Civilian Dict,1967,2,1,Middle
+249,Cambodia,Asia,Non-democracy,Military Dict,1969,6,1,Middle
+250,Cambodia,Asia,Non-democracy,Civilian Dict,1975,1,1,Middle
+251,Cambodia,Asia,Non-democracy,Civilian Dict,1976,3,1,Middle
+252,Cambodia,Asia,Non-democracy,Military Dict,1979,12,1,Middle
+253,Cambodia,Asia,Non-democracy,Civilian Dict,1991,2,1,Late
+254,Cambodia,Asia,Non-democracy,Civilian Dict,1993,4,1,Late
+255,Cambodia,Asia,Non-democracy,Civilian Dict,1997,12,0,Late
+256,Cameroon,Africa,Non-democracy,Civilian Dict,1960,22,1,Early
+257,Cameroon,Africa,Non-democracy,Civilian Dict,1982,27,0,Middle
+258,Canada,Americas,Democracy,Parliamentary Dem,1946,2,1,Early
+259,Canada,Americas,Democracy,Parliamentary Dem,1948,9,1,Early
+260,Canada,Americas,Democracy,Parliamentary Dem,1957,6,1,Early
+261,Canada,Americas,Democracy,Parliamentary Dem,1963,5,1,Early
+262,Canada,Americas,Democracy,Parliamentary Dem,1968,11,1,Middle
+263,Canada,Americas,Democracy,Parliamentary Dem,1979,1,1,Middle
+264,Canada,Americas,Democracy,Parliamentary Dem,1980,4,1,Middle
+265,Canada,Americas,Democracy,Parliamentary Dem,1984,9,1,Middle
+266,Canada,Americas,Democracy,Parliamentary Dem,1993,10,1,Late
+267,Canada,Americas,Democracy,Parliamentary Dem,2003,3,1,Late
+268,Canada,Americas,Democracy,Parliamentary Dem,2006,3,0,Late
+269,Cape Verde,Africa,Non-democracy,Civilian Dict,1975,15,1,Middle
+270,Cape Verde,Africa,Democracy,Mixed Dem,1990,1,1,Late
+271,Cape Verde,Africa,Democracy,Mixed Dem,1991,9,1,Late
+272,Cape Verde,Africa,Democracy,Mixed Dem,2000,1,1,Late
+273,Cape Verde,Africa,Democracy,Mixed Dem,2001,8,0,Late
+274,Central African Republic,Africa,Non-democracy,Civilian Dict,1960,6,1,Early
+275,Central African Republic,Africa,Non-democracy,Military Dict,1966,13,1,Middle
+276,Central African Republic,Africa,Non-democracy,Civilian Dict,1979,2,1,Middle
+277,Central African Republic,Africa,Non-democracy,Military Dict,1981,12,1,Middle
+278,Central African Republic,Africa,Democracy,Mixed Dem,1993,2,1,Late
+279,Central African Republic,Africa,Democracy,Mixed Dem,1995,1,1,Late
+280,Central African Republic,Africa,Democracy,Mixed Dem,1996,1,1,Late
+281,Central African Republic,Africa,Democracy,Mixed Dem,1997,2,1,Late
+282,Central African Republic,Africa,Democracy,Mixed Dem,1999,2,1,Late
+283,Central African Republic,Africa,Democracy,Mixed Dem,2001,2,1,Late
+284,Central African Republic,Africa,Non-democracy,Military Dict,2003,6,0,Late
+285,Chad,Africa,Non-democracy,Civilian Dict,1960,15,0,Early
+286,Chad,Africa,Non-democracy,Military Dict,1975,4,1,Middle
+287,Chad,Africa,Non-democracy,Civilian Dict,1979,3,1,Middle
+288,Chad,Africa,Non-democracy,Civilian Dict,1982,8,1,Middle
+289,Chad,Africa,Non-democracy,Military Dict,1990,19,0,Late
+290,Chile,Americas,Democracy,Presidential Dem,1946,6,1,Early
+291,Chile,Americas,Democracy,Presidential Dem,1952,6,1,Early
+292,Chile,Americas,Democracy,Presidential Dem,1958,6,1,Early
+293,Chile,Americas,Democracy,Presidential Dem,1964,6,1,Early
+294,Chile,Americas,Democracy,Presidential Dem,1970,3,0,Middle
+295,Chile,Americas,Non-democracy,Military Dict,1973,17,1,Middle
+296,Chile,Americas,Democracy,Presidential Dem,1990,4,1,Late
+297,Chile,Americas,Democracy,Presidential Dem,1994,6,1,Late
+298,Chile,Americas,Democracy,Presidential Dem,2000,6,1,Late
+299,Chile,Americas,Democracy,Presidential Dem,2006,3,0,Late
+300,China,Asia,Non-democracy,Military Dict,1946,3,1,Early
+301,China,Asia,Non-democracy,Civilian Dict,1949,27,0,Early
+302,China,Asia,Non-democracy,Civilian Dict,1976,2,1,Middle
+303,China,Asia,Non-democracy,Civilian Dict,1978,19,0,Middle
+304,China,Asia,Non-democracy,Civilian Dict,1997,5,1,Late
+305,China,Asia,Non-democracy,Civilian Dict,2002,7,0,Late
+306,Colombia,Americas,Democracy,Presidential Dem,1946,3,1,Early
+307,Colombia,Americas,Non-democracy,Civilian Dict,1949,1,1,Early
+308,Colombia,Americas,Non-democracy,Civilian Dict,1950,1,1,Early
+309,Colombia,Americas,Non-democracy,Civilian Dict,1951,2,1,Early
+310,Colombia,Americas,Non-democracy,Military Dict,1953,4,1,Early
+311,Colombia,Americas,Non-democracy,Military Dict,1957,1,1,Early
+312,Colombia,Americas,Democracy,Presidential Dem,1958,4,1,Early
+313,Colombia,Americas,Democracy,Presidential Dem,1962,4,1,Early
+314,Colombia,Americas,Democracy,Presidential Dem,1966,4,1,Middle
+315,Colombia,Americas,Democracy,Presidential Dem,1970,4,1,Middle
+316,Colombia,Americas,Democracy,Presidential Dem,1974,4,1,Middle
+317,Colombia,Americas,Democracy,Presidential Dem,1978,4,1,Middle
+318,Colombia,Americas,Democracy,Presidential Dem,1982,4,1,Middle
+319,Colombia,Americas,Democracy,Presidential Dem,1986,4,1,Late
+320,Colombia,Americas,Democracy,Presidential Dem,1990,4,1,Late
+321,Colombia,Americas,Democracy,Presidential Dem,1994,4,1,Late
+322,Colombia,Americas,Democracy,Presidential Dem,1998,4,1,Late
+323,Colombia,Americas,Democracy,Presidential Dem,2002,7,0,Late
+324,Comoros,Africa,Non-democracy,Civilian Dict,1975,3,0,Middle
+325,Comoros,Africa,Non-democracy,Civilian Dict,1978,11,0,Middle
+326,Comoros,Africa,Non-democracy,Civilian Dict,1989,1,1,Late
+327,Comoros,Africa,Democracy,Mixed Dem,1990,3,1,Late
+328,Comoros,Africa,Democracy,Mixed Dem,1993,1,1,Late
+329,Comoros,Africa,Democracy,Mixed Dem,1994,1,1,Late
+330,Comoros,Africa,Non-democracy,Civilian Dict,1995,1,1,Late
+331,Comoros,Africa,Non-democracy,Civilian Dict,1996,2,0,Late
+332,Comoros,Africa,Non-democracy,Civilian Dict,1998,1,1,Late
+333,Comoros,Africa,Non-democracy,Military Dict,1999,5,1,Late
+334,Comoros,Africa,Democracy,Presidential Dem,2004,2,1,Late
+335,Comoros,Africa,Democracy,Presidential Dem,2006,3,0,Late
+336,"Congo (Brazzaville, Republic of Congo)",Africa,Democracy,Presidential Dem,1960,3,1,Early
+337,"Congo (Brazzaville, Republic of Congo)",Africa,Non-democracy,Civilian Dict,1963,5,1,Early
+338,"Congo (Brazzaville, Republic of Congo)",Africa,Non-democracy,Military Dict,1968,1,1,Middle
+339,"Congo (Brazzaville, Republic of Congo)",Africa,Non-democracy,Military Dict,1969,8,0,Middle
+340,"Congo (Brazzaville, Republic of Congo)",Africa,Non-democracy,Military Dict,1977,2,1,Middle
+341,"Congo (Brazzaville, Republic of Congo)",Africa,Non-democracy,Military Dict,1979,13,1,Middle
+342,"Congo (Brazzaville, Republic of Congo)",Africa,Democracy,Mixed Dem,1992,1,1,Late
+343,"Congo (Brazzaville, Republic of Congo)",Africa,Democracy,Mixed Dem,1993,3,1,Late
+344,"Congo (Brazzaville, Republic of Congo)",Africa,Democracy,Mixed Dem,1996,1,1,Late
+345,"Congo (Brazzaville, Republic of Congo)",Africa,Non-democracy,Military Dict,1997,12,0,Late
+346,Costa Rica,Americas,Democracy,Presidential Dem,1946,2,1,Early
+347,Costa Rica,Americas,Non-democracy,Civilian Dict,1948,1,1,Early
+348,Costa Rica,Americas,Democracy,Presidential Dem,1949,4,1,Early
+349,Costa Rica,Americas,Democracy,Presidential Dem,1953,5,1,Early
+350,Costa Rica,Americas,Democracy,Presidential Dem,1958,4,1,Early
+351,Costa Rica,Americas,Democracy,Presidential Dem,1962,4,1,Early
+352,Costa Rica,Americas,Democracy,Presidential Dem,1966,4,1,Middle
+353,Costa Rica,Americas,Democracy,Presidential Dem,1970,4,1,Middle
+354,Costa Rica,Americas,Democracy,Presidential Dem,1974,4,1,Middle
+355,Costa Rica,Americas,Democracy,Presidential Dem,1978,4,1,Middle
+356,Costa Rica,Americas,Democracy,Presidential Dem,1982,4,1,Middle
+357,Costa Rica,Americas,Democracy,Presidential Dem,1986,4,1,Late
+358,Costa Rica,Americas,Democracy,Presidential Dem,1990,4,1,Late
+359,Costa Rica,Americas,Democracy,Presidential Dem,1994,4,1,Late
+360,Costa Rica,Americas,Democracy,Presidential Dem,1998,4,1,Late
+361,Costa Rica,Americas,Democracy,Presidential Dem,2002,4,1,Late
+362,Costa Rica,Americas,Democracy,Presidential Dem,2006,3,0,Late
+363,Cote d'Ivoire,Africa,Non-democracy,Civilian Dict,1960,33,0,Early
+364,Cote d'Ivoire,Africa,Non-democracy,Civilian Dict,1993,6,1,Late
+365,Cote d'Ivoire,Africa,Non-democracy,Military Dict,1999,1,1,Late
+366,Cote d'Ivoire,Africa,Non-democracy,Civilian Dict,2000,9,0,Late
+367,Croatia,Europe,Democracy,Mixed Dem,1991,1,1,Late
+368,Croatia,Europe,Democracy,Mixed Dem,1992,1,1,Late
+369,Croatia,Europe,Democracy,Mixed Dem,1993,2,1,Late
+370,Croatia,Europe,Democracy,Mixed Dem,1995,5,1,Late
+371,Croatia,Europe,Democracy,Mixed Dem,2000,3,1,Late
+372,Croatia,Europe,Democracy,Mixed Dem,2003,6,0,Late
+373,Cuba,Americas,Democracy,Presidential Dem,1946,6,1,Early
+374,Cuba,Americas,Non-democracy,Military Dict,1952,7,1,Early
+375,Cuba,Americas,Non-democracy,Civilian Dict,1959,47,1,Early
+376,Cuba,Americas,Non-democracy,Military Dict,2006,3,0,Late
+377,Cyprus,Asia,Non-democracy,Civilian Dict,1960,17,0,Early
+378,Cyprus,Asia,Non-democracy,Civilian Dict,1977,6,0,Middle
+379,Cyprus,Asia,Democracy,Presidential Dem,1983,5,1,Middle
+380,Cyprus,Asia,Democracy,Presidential Dem,1988,5,1,Late
+381,Cyprus,Asia,Democracy,Presidential Dem,1993,10,1,Late
+382,Cyprus,Asia,Democracy,Presidential Dem,2003,5,1,Late
+383,Cyprus,Asia,Democracy,Presidential Dem,2008,1,0,Late
+384,Czech Republic,Europe,Democracy,Parliamentary Dem,1993,4,1,Late
+385,Czech Republic,Europe,Democracy,Parliamentary Dem,1997,1,1,Late
+386,Czech Republic,Europe,Democracy,Parliamentary Dem,1998,4,1,Late
+387,Czech Republic,Europe,Democracy,Parliamentary Dem,2002,2,1,Late
+388,Czech Republic,Europe,Democracy,Parliamentary Dem,2004,1,1,Late
+389,Czech Republic,Europe,Democracy,Parliamentary Dem,2005,1,1,Late
+390,Czech Republic,Europe,Democracy,Parliamentary Dem,2006,3,0,Late
+391,Czechoslovakia,Europe,Non-democracy,Civilian Dict,1946,7,0,Early
+392,Czechoslovakia,Europe,Non-democracy,Civilian Dict,1953,15,1,Early
+393,Czechoslovakia,Europe,Non-democracy,Civilian Dict,1968,1,1,Middle
+394,Czechoslovakia,Europe,Non-democracy,Civilian Dict,1969,18,1,Middle
+395,Czechoslovakia,Europe,Non-democracy,Civilian Dict,1987,2,1,Late
+396,Czechoslovakia,Europe,Democracy,Parliamentary Dem,1989,3,1,Late
+397,Czechoslovakia,Europe,Democracy,Parliamentary Dem,1992,1,0,Late
+398,"Democratic Republic of the Congo (Zaire, Congo-Kinshasha)",Africa,Non-democracy,Civilian Dict,1960,5,1,Early
+399,"Democratic Republic of the Congo (Zaire, Congo-Kinshasha)",Africa,Non-democracy,Military Dict,1965,32,1,Early
+400,"Democratic Republic of the Congo (Zaire, Congo-Kinshasha)",Africa,Non-democracy,Civilian Dict,1997,4,0,Late
+401,"Democratic Republic of the Congo (Zaire, Congo-Kinshasha)",Africa,Non-democracy,Civilian Dict,2001,8,0,Late
+402,Denmark,Europe,Democracy,Parliamentary Dem,1946,1,1,Early
+403,Denmark,Europe,Democracy,Parliamentary Dem,1947,3,1,Early
+404,Denmark,Europe,Democracy,Parliamentary Dem,1950,3,1,Early
+405,Denmark,Europe,Democracy,Parliamentary Dem,1953,2,0,Early
+406,Denmark,Europe,Democracy,Parliamentary Dem,1955,5,0,Early
+407,Denmark,Europe,Democracy,Parliamentary Dem,1960,2,1,Early
+408,Denmark,Europe,Democracy,Parliamentary Dem,1962,6,1,Early
+409,Denmark,Europe,Democracy,Parliamentary Dem,1968,3,1,Middle
+410,Denmark,Europe,Democracy,Parliamentary Dem,1971,1,1,Middle
+411,Denmark,Europe,Democracy,Parliamentary Dem,1972,1,1,Middle
+412,Denmark,Europe,Democracy,Parliamentary Dem,1973,2,1,Middle
+413,Denmark,Europe,Democracy,Parliamentary Dem,1975,7,1,Middle
+414,Denmark,Europe,Democracy,Parliamentary Dem,1982,11,1,Middle
+415,Denmark,Europe,Democracy,Parliamentary Dem,1993,8,1,Late
+416,Denmark,Europe,Democracy,Parliamentary Dem,2001,8,0,Late
+417,Djibouti,Africa,Non-democracy,Civilian Dict,1977,22,1,Middle
+418,Djibouti,Africa,Non-democracy,Civilian Dict,1999,10,0,Late
+419,Dominica,Americas,Democracy,Parliamentary Dem,1978,1,1,Middle
+420,Dominica,Americas,Democracy,Parliamentary Dem,1979,1,1,Middle
+421,Dominica,Americas,Democracy,Parliamentary Dem,1980,15,1,Middle
+422,Dominica,Americas,Democracy,Parliamentary Dem,1995,5,1,Late
+423,Dominica,Americas,Democracy,Parliamentary Dem,2000,4,1,Late
+424,Dominica,Americas,Democracy,Parliamentary Dem,2004,5,0,Late
+425,Dominican Republic,Americas,Non-democracy,Military Dict,1946,15,0,Early
+426,Dominican Republic,Americas,Non-democracy,Civilian Dict,1961,1,1,Early
+427,Dominican Republic,Americas,Non-democracy,Civilian Dict,1962,1,1,Early
+428,Dominican Republic,Americas,Non-democracy,Military Dict,1963,2,1,Early
+429,Dominican Republic,Americas,Non-democracy,Civilian Dict,1965,1,1,Early
+430,Dominican Republic,Americas,Democracy,Presidential Dem,1966,12,1,Middle
+431,Dominican Republic,Americas,Democracy,Presidential Dem,1978,4,0,Middle
+432,Dominican Republic,Americas,Democracy,Presidential Dem,1982,4,1,Middle
+433,Dominican Republic,Americas,Democracy,Presidential Dem,1986,10,1,Late
+434,Dominican Republic,Americas,Democracy,Presidential Dem,1996,4,1,Late
+435,Dominican Republic,Americas,Democracy,Presidential Dem,2000,4,1,Late
+436,Dominican Republic,Americas,Democracy,Presidential Dem,2004,5,0,Late
+437,East Timor,Asia,Democracy,Mixed Dem,2002,4,1,Late
+438,East Timor,Asia,Democracy,Mixed Dem,2006,1,1,Late
+439,East Timor,Asia,Democracy,Mixed Dem,2007,2,0,Late
+440,Ecuador,Americas,Democracy,Presidential Dem,1946,1,1,Early
+441,Ecuador,Americas,Non-democracy,Military Dict,1947,1,1,Early
+442,Ecuador,Americas,Democracy,Presidential Dem,1948,4,1,Early
+443,Ecuador,Americas,Democracy,Presidential Dem,1952,4,1,Early
+444,Ecuador,Americas,Democracy,Presidential Dem,1956,4,1,Early
+445,Ecuador,Americas,Democracy,Presidential Dem,1960,1,1,Early
+446,Ecuador,Americas,Democracy,Presidential Dem,1961,2,1,Early
+447,Ecuador,Americas,Non-democracy,Military Dict,1963,3,1,Early
+448,Ecuador,Americas,Non-democracy,Civilian Dict,1966,2,1,Middle
+449,Ecuador,Americas,Non-democracy,Civilian Dict,1968,4,1,Middle
+450,Ecuador,Americas,Non-democracy,Military Dict,1972,4,1,Middle
+451,Ecuador,Americas,Non-democracy,Military Dict,1976,3,1,Middle
+452,Ecuador,Americas,Democracy,Presidential Dem,1979,2,0,Middle
+453,Ecuador,Americas,Democracy,Presidential Dem,1981,3,1,Middle
+454,Ecuador,Americas,Democracy,Presidential Dem,1984,4,1,Middle
+455,Ecuador,Americas,Democracy,Presidential Dem,1988,4,1,Late
+456,Ecuador,Americas,Democracy,Presidential Dem,1992,4,1,Late
+457,Ecuador,Americas,Democracy,Presidential Dem,1996,1,1,Late
+458,Ecuador,Americas,Democracy,Presidential Dem,1997,1,1,Late
+459,Ecuador,Americas,Democracy,Presidential Dem,1998,2,1,Late
+460,Ecuador,Americas,Non-democracy,Civilian Dict,2000,2,1,Late
+461,Ecuador,Americas,Democracy,Presidential Dem,2002,1,1,Late
+462,Ecuador,Americas,Democracy,Presidential Dem,2003,2,1,Late
+463,Ecuador,Americas,Democracy,Presidential Dem,2005,2,1,Late
+464,Ecuador,Americas,Democracy,Presidential Dem,2007,2,0,Late
+465,Egypt,Africa,Non-democracy,Monarchy,1946,6,1,Early
+466,Egypt,Africa,Non-democracy,Military Dict,1952,2,1,Early
+467,Egypt,Africa,Non-democracy,Military Dict,1954,16,0,Early
+468,Egypt,Africa,Non-democracy,Military Dict,1970,11,0,Middle
+469,Egypt,Africa,Non-democracy,Military Dict,1981,28,0,Middle
+470,El Salvador,Americas,Non-democracy,Military Dict,1946,2,1,Early
+471,El Salvador,Americas,Non-democracy,Military Dict,1948,1,1,Early
+472,El Salvador,Americas,Non-democracy,Military Dict,1949,1,1,Early
+473,El Salvador,Americas,Non-democracy,Military Dict,1950,6,1,Early
+474,El Salvador,Americas,Non-democracy,Military Dict,1956,4,1,Early
+475,El Salvador,Americas,Non-democracy,Military Dict,1960,1,1,Early
+476,El Salvador,Americas,Non-democracy,Military Dict,1961,1,1,Early
+477,El Salvador,Americas,Non-democracy,Military Dict,1962,5,1,Early
+478,El Salvador,Americas,Non-democracy,Military Dict,1967,5,1,Middle
+479,El Salvador,Americas,Non-democracy,Military Dict,1972,5,1,Middle
+480,El Salvador,Americas,Non-democracy,Military Dict,1977,2,1,Middle
+481,El Salvador,Americas,Non-democracy,Military Dict,1979,1,1,Middle
+482,El Salvador,Americas,Non-democracy,Civilian Dict,1980,2,1,Middle
+483,El Salvador,Americas,Non-democracy,Military Dict,1982,2,1,Middle
+484,El Salvador,Americas,Democracy,Presidential Dem,1984,5,1,Middle
+485,El Salvador,Americas,Democracy,Presidential Dem,1989,5,1,Late
+486,El Salvador,Americas,Democracy,Presidential Dem,1994,5,1,Late
+487,El Salvador,Americas,Democracy,Presidential Dem,1999,5,1,Late
+488,El Salvador,Americas,Democracy,Presidential Dem,2004,5,0,Late
+489,Equatorial Guinea,Africa,Non-democracy,Civilian Dict,1968,11,1,Middle
+490,Equatorial Guinea,Africa,Non-democracy,Military Dict,1979,30,0,Middle
+491,Eritrea,Africa,Non-democracy,Civilian Dict,1993,16,0,Late
+492,Estonia,Europe,Democracy,Parliamentary Dem,1991,1,1,Late
+493,Estonia,Europe,Democracy,Parliamentary Dem,1992,2,1,Late
+494,Estonia,Europe,Democracy,Parliamentary Dem,1994,1,1,Late
+495,Estonia,Europe,Democracy,Parliamentary Dem,1995,2,1,Late
+496,Estonia,Europe,Democracy,Parliamentary Dem,1997,2,1,Late
+497,Estonia,Europe,Democracy,Parliamentary Dem,1999,3,1,Late
+498,Estonia,Europe,Democracy,Parliamentary Dem,2002,1,1,Late
+499,Estonia,Europe,Democracy,Parliamentary Dem,2003,2,1,Late
+500,Estonia,Europe,Democracy,Parliamentary Dem,2005,4,0,Late
+501,Ethiopia,Africa,Non-democracy,Monarchy,1946,28,1,Early
+502,Ethiopia,Africa,Non-democracy,Military Dict,1974,3,1,Middle
+503,Ethiopia,Africa,Non-democracy,Military Dict,1977,14,1,Middle
+504,Ethiopia,Africa,Non-democracy,Civilian Dict,1991,4,0,Late
+505,Ethiopia,Africa,Non-democracy,Civilian Dict,1991,4,0,Late
+506,Ethiopia,Africa,Non-democracy,Civilian Dict,1995,6,1,Late
+507,Ethiopia,Africa,Non-democracy,Civilian Dict,2001,8,0,Late
+508,Fiji,Oceania,Non-democracy,Civilian Dict,1970,17,1,Middle
+509,Fiji,Oceania,Non-democracy,Military Dict,1987,5,1,Late
+510,Fiji,Oceania,Democracy,Parliamentary Dem,1992,7,1,Late
+511,Fiji,Oceania,Democracy,Parliamentary Dem,1999,1,1,Late
+512,Fiji,Oceania,Non-democracy,Military Dict,2000,1,1,Late
+513,Fiji,Oceania,Non-democracy,Civilian Dict,2001,5,1,Late
+514,Fiji,Oceania,Non-democracy,Military Dict,2006,3,0,Late
+515,Finland,Europe,Democracy,Mixed Dem,1946,2,1,Early
+516,Finland,Europe,Democracy,Mixed Dem,1948,2,1,Early
+517,Finland,Europe,Democracy,Mixed Dem,1950,3,1,Early
+518,Finland,Europe,Democracy,Mixed Dem,1953,1,1,Early
+519,Finland,Europe,Democracy,Mixed Dem,1954,2,1,Early
+520,Finland,Europe,Democracy,Mixed Dem,1956,1,1,Early
+521,Finland,Europe,Democracy,Mixed Dem,1957,1,1,Early
+522,Finland,Europe,Democracy,Mixed Dem,1958,1,1,Early
+523,Finland,Europe,Democracy,Mixed Dem,1959,2,1,Early
+524,Finland,Europe,Democracy,Mixed Dem,1961,1,1,Early
+525,Finland,Europe,Democracy,Mixed Dem,1962,1,1,Early
+526,Finland,Europe,Democracy,Mixed Dem,1963,1,1,Early
+527,Finland,Europe,Democracy,Mixed Dem,1964,2,1,Early
+528,Finland,Europe,Democracy,Mixed Dem,1966,2,1,Middle
+529,Finland,Europe,Democracy,Mixed Dem,1968,2,1,Middle
+530,Finland,Europe,Democracy,Mixed Dem,1970,1,1,Middle
+531,Finland,Europe,Democracy,Mixed Dem,1971,1,1,Middle
+532,Finland,Europe,Democracy,Mixed Dem,1972,3,1,Middle
+533,Finland,Europe,Democracy,Mixed Dem,1975,2,1,Middle
+534,Finland,Europe,Democracy,Mixed Dem,1977,2,1,Middle
+535,Finland,Europe,Democracy,Mixed Dem,1979,3,1,Middle
+536,Finland,Europe,Democracy,Mixed Dem,1982,5,1,Middle
+537,Finland,Europe,Democracy,Mixed Dem,1987,4,1,Late
+538,Finland,Europe,Democracy,Mixed Dem,1991,4,1,Late
+539,Finland,Europe,Democracy,Mixed Dem,1995,8,1,Late
+540,Finland,Europe,Democracy,Mixed Dem,2003,6,0,Late
+541,France,Europe,Democracy,Parliamentary Dem,1946,1,1,Early
+542,France,Europe,Democracy,Parliamentary Dem,1947,1,1,Early
+543,France,Europe,Democracy,Parliamentary Dem,1948,1,1,Early
+544,France,Europe,Democracy,Parliamentary Dem,1949,1,1,Early
+545,France,Europe,Democracy,Parliamentary Dem,1950,2,1,Early
+546,France,Europe,Democracy,Parliamentary Dem,1952,1,1,Early
+547,France,Europe,Democracy,Parliamentary Dem,1953,1,1,Early
+548,France,Europe,Democracy,Parliamentary Dem,1954,1,1,Early
+549,France,Europe,Democracy,Parliamentary Dem,1955,1,1,Early
+550,France,Europe,Democracy,Parliamentary Dem,1956,1,1,Early
+551,France,Europe,Democracy,Parliamentary Dem,1957,1,1,Early
+552,France,Europe,Democracy,Parliamentary Dem,1958,1,1,Early
+553,France,Europe,Democracy,Parliamentary Dem,1959,3,1,Early
+554,France,Europe,Democracy,Parliamentary Dem,1962,3,1,Early
+555,France,Europe,Democracy,Mixed Dem,1965,3,1,Early
+556,France,Europe,Democracy,Mixed Dem,1968,1,1,Middle
+557,France,Europe,Democracy,Mixed Dem,1969,3,1,Middle
+558,France,Europe,Democracy,Mixed Dem,1972,2,1,Middle
+559,France,Europe,Democracy,Mixed Dem,1974,2,1,Middle
+560,France,Europe,Democracy,Mixed Dem,1976,5,1,Middle
+561,France,Europe,Democracy,Mixed Dem,1981,3,1,Middle
+562,France,Europe,Democracy,Mixed Dem,1984,2,1,Middle
+563,France,Europe,Democracy,Mixed Dem,1986,2,1,Late
+564,France,Europe,Democracy,Mixed Dem,1988,3,1,Late
+565,France,Europe,Democracy,Mixed Dem,1991,1,1,Late
+566,France,Europe,Democracy,Mixed Dem,1992,1,1,Late
+567,France,Europe,Democracy,Mixed Dem,1993,2,1,Late
+568,France,Europe,Democracy,Mixed Dem,1995,2,1,Late
+569,France,Europe,Democracy,Mixed Dem,1997,5,1,Late
+570,France,Europe,Democracy,Mixed Dem,2002,3,1,Late
+571,France,Europe,Democracy,Mixed Dem,2005,2,1,Late
+572,France,Europe,Democracy,Mixed Dem,2007,2,0,Late
+573,Gabon,Africa,Non-democracy,Civilian Dict,1960,7,0,Early
+574,Gabon,Africa,Non-democracy,Civilian Dict,1967,42,0,Middle
+575,Gambia,Africa,Non-democracy,Civilian Dict,1965,29,1,Early
+576,Gambia,Africa,Non-democracy,Military Dict,1994,15,0,Late
+577,Georgia,Asia,Non-democracy,Civilian Dict,1991,1,1,Late
+578,Georgia,Asia,Non-democracy,Civilian Dict,1992,11,1,Late
+579,Georgia,Asia,Non-democracy,Civilian Dict,2003,1,1,Late
+580,Georgia,Asia,Democracy,Mixed Dem,2004,1,1,Late
+581,Georgia,Asia,Democracy,Mixed Dem,2005,2,1,Late
+582,Georgia,Asia,Democracy,Mixed Dem,2007,1,1,Late
+583,Georgia,Asia,Democracy,Mixed Dem,2008,1,0,Late
+584,Germany,Europe,Democracy,Parliamentary Dem,1990,8,1,Late
+585,Germany,Europe,Democracy,Parliamentary Dem,1998,7,1,Late
+586,Germany,Europe,Democracy,Parliamentary Dem,2005,4,0,Late
+587,"Germany, East",Europe,Non-democracy,Civilian Dict,1949,1,1,Early
+588,"Germany, East",Europe,Non-democracy,Civilian Dict,1950,21,1,Early
+589,"Germany, East",Europe,Non-democracy,Civilian Dict,1971,18,1,Middle
+590,"Germany, East",Europe,Non-democracy,Civilian Dict,1989,1,0,Late
+591,"Germany, West",Europe,Democracy,Parliamentary Dem,1949,14,1,Early
+592,"Germany, West",Europe,Democracy,Parliamentary Dem,1963,3,1,Early
+593,"Germany, West",Europe,Democracy,Parliamentary Dem,1966,3,1,Middle
+594,"Germany, West",Europe,Democracy,Parliamentary Dem,1969,5,1,Middle
+595,"Germany, West",Europe,Democracy,Parliamentary Dem,1974,8,1,Middle
+596,"Germany, West",Europe,Democracy,Parliamentary Dem,1982,8,0,Middle
+597,Ghana,Africa,Non-democracy,Civilian Dict,1957,9,1,Early
+598,Ghana,Africa,Non-democracy,Military Dict,1966,3,1,Middle
+599,Ghana,Africa,Democracy,Parliamentary Dem,1969,3,1,Middle
+600,Ghana,Africa,Non-democracy,Military Dict,1972,6,1,Middle
+601,Ghana,Africa,Non-democracy,Military Dict,1978,1,1,Middle
+602,Ghana,Africa,Democracy,Presidential Dem,1979,2,1,Middle
+603,Ghana,Africa,Non-democracy,Military Dict,1981,12,1,Middle
+604,Ghana,Africa,Democracy,Presidential Dem,1993,8,1,Late
+605,Ghana,Africa,Democracy,Presidential Dem,2001,8,0,Late
+606,Greece,Europe,Democracy,Parliamentary Dem,1946,1,1,Early
+607,Greece,Europe,Democracy,Parliamentary Dem,1947,2,1,Early
+608,Greece,Europe,Democracy,Parliamentary Dem,1949,1,1,Early
+609,Greece,Europe,Democracy,Parliamentary Dem,1950,2,1,Early
+610,Greece,Europe,Democracy,Parliamentary Dem,1952,3,0,Early
+611,Greece,Europe,Democracy,Parliamentary Dem,1955,8,1,Early
+612,Greece,Europe,Democracy,Parliamentary Dem,1963,1,1,Early
+613,Greece,Europe,Democracy,Parliamentary Dem,1964,1,1,Early
+614,Greece,Europe,Democracy,Parliamentary Dem,1965,1,1,Early
+615,Greece,Europe,Democracy,Parliamentary Dem,1966,1,1,Middle
+616,Greece,Europe,Non-democracy,Military Dict,1967,6,1,Middle
+617,Greece,Europe,Non-democracy,Military Dict,1973,1,1,Middle
+618,Greece,Europe,Democracy,Parliamentary Dem,1974,6,1,Middle
+619,Greece,Europe,Democracy,Parliamentary Dem,1980,1,1,Middle
+620,Greece,Europe,Democracy,Parliamentary Dem,1981,8,1,Middle
+621,Greece,Europe,Democracy,Parliamentary Dem,1989,1,1,Late
+622,Greece,Europe,Democracy,Parliamentary Dem,1990,3,1,Late
+623,Greece,Europe,Democracy,Parliamentary Dem,1993,3,0,Late
+624,Greece,Europe,Democracy,Parliamentary Dem,1996,8,1,Late
+625,Greece,Europe,Democracy,Parliamentary Dem,2004,5,0,Late
+626,Grenada,Americas,Democracy,Parliamentary Dem,1974,5,1,Middle
+627,Grenada,Americas,Non-democracy,Civilian Dict,1979,4,0,Middle
+628,Grenada,Americas,Non-democracy,Civilian Dict,1983,1,1,Middle
+629,Grenada,Americas,Democracy,Parliamentary Dem,1984,5,0,Middle
+630,Grenada,Americas,Democracy,Parliamentary Dem,1989,1,1,Late
+631,Grenada,Americas,Democracy,Parliamentary Dem,1990,5,1,Late
+632,Grenada,Americas,Democracy,Parliamentary Dem,1995,13,1,Late
+633,Grenada,Americas,Democracy,Parliamentary Dem,2008,1,0,Late
+634,Guatemala,Americas,Democracy,Presidential Dem,1946,5,1,Early
+635,Guatemala,Americas,Democracy,Presidential Dem,1951,3,1,Early
+636,Guatemala,Americas,Non-democracy,Military Dict,1954,3,0,Early
+637,Guatemala,Americas,Non-democracy,Military Dict,1957,1,1,Early
+638,Guatemala,Americas,Democracy,Presidential Dem,1958,5,1,Early
+639,Guatemala,Americas,Non-democracy,Military Dict,1963,3,1,Early
+640,Guatemala,Americas,Democracy,Presidential Dem,1966,4,1,Middle
+641,Guatemala,Americas,Democracy,Presidential Dem,1970,4,1,Middle
+642,Guatemala,Americas,Democracy,Presidential Dem,1974,4,1,Middle
+643,Guatemala,Americas,Democracy,Presidential Dem,1978,4,1,Middle
+644,Guatemala,Americas,Non-democracy,Military Dict,1982,1,1,Middle
+645,Guatemala,Americas,Non-democracy,Military Dict,1983,3,1,Middle
+646,Guatemala,Americas,Democracy,Presidential Dem,1986,5,1,Late
+647,Guatemala,Americas,Democracy,Presidential Dem,1991,2,1,Late
+648,Guatemala,Americas,Democracy,Presidential Dem,1993,3,1,Late
+649,Guatemala,Americas,Democracy,Presidential Dem,1996,4,1,Late
+650,Guatemala,Americas,Democracy,Presidential Dem,2000,8,1,Late
+651,Guatemala,Americas,Democracy,Presidential Dem,2008,1,0,Late
+652,Guinea,Africa,Non-democracy,Civilian Dict,1958,26,0,Early
+653,Guinea,Africa,Non-democracy,Military Dict,1984,24,0,Middle
+654,Guinea,Africa,Non-democracy,Military Dict,2008,1,0,Late
+655,Guinea-Bissau,Africa,Non-democracy,Civilian Dict,1974,6,1,Middle
+656,Guinea-Bissau,Africa,Non-democracy,Military Dict,1980,19,1,Middle
+657,Guinea-Bissau,Africa,Non-democracy,Military Dict,1999,1,1,Late
+658,Guinea-Bissau,Africa,Democracy,Mixed Dem,2000,3,1,Late
+659,Guinea-Bissau,Africa,Non-democracy,Civilian Dict,2003,1,1,Late
+660,Guinea-Bissau,Africa,Democracy,Mixed Dem,2004,1,1,Late
+661,Guinea-Bissau,Africa,Democracy,Mixed Dem,2005,2,1,Late
+662,Guinea-Bissau,Africa,Democracy,Mixed Dem,2007,1,1,Late
+663,Guinea-Bissau,Africa,Democracy,Mixed Dem,2008,1,0,Late
+664,Guyana,Americas,Non-democracy,Civilian Dict,1966,19,0,Middle
+665,Guyana,Americas,Non-democracy,Civilian Dict,1985,7,1,Middle
+666,Guyana,Americas,Non-democracy,Civilian Dict,1992,5,0,Late
+667,Guyana,Americas,Non-democracy,Civilian Dict,1997,2,1,Late
+668,Guyana,Americas,Non-democracy,Civilian Dict,1999,10,0,Late
+669,Haiti,Americas,Non-democracy,Civilian Dict,1946,4,1,Early
+670,Haiti,Americas,Non-democracy,Military Dict,1950,6,1,Early
+671,Haiti,Americas,Non-democracy,Civilian Dict,1956,1,1,Early
+672,Haiti,Americas,Non-democracy,Civilian Dict,1957,14,0,Early
+673,Haiti,Americas,Non-democracy,Civilian Dict,1971,15,1,Middle
+674,Haiti,Americas,Non-democracy,Military Dict,1986,2,1,Late
+675,Haiti,Americas,Non-democracy,Military Dict,1988,2,1,Late
+676,Haiti,Americas,Non-democracy,Civilian Dict,1990,1,1,Late
+677,Haiti,Americas,Non-democracy,Civilian Dict,1991,1,1,Late
+678,Haiti,Americas,Non-democracy,Civilian Dict,1992,1,1,Late
+679,Haiti,Americas,Non-democracy,Civilian Dict,1993,3,1,Late
+680,Haiti,Americas,Non-democracy,Civilian Dict,1996,5,1,Late
+681,Haiti,Americas,Non-democracy,Civilian Dict,2001,3,1,Late
+682,Haiti,Americas,Non-democracy,Civilian Dict,2004,2,1,Late
+683,Haiti,Americas,Non-democracy,Civilian Dict,2006,3,0,Late
+684,Honduras,Americas,Non-democracy,Military Dict,1946,3,1,Early
+685,Honduras,Americas,Non-democracy,Civilian Dict,1949,5,1,Early
+686,Honduras,Americas,Non-democracy,Civilian Dict,1954,2,1,Early
+687,Honduras,Americas,Non-democracy,Military Dict,1956,1,1,Early
+688,Honduras,Americas,Democracy,Presidential Dem,1957,6,1,Early
+689,Honduras,Americas,Non-democracy,Military Dict,1963,8,1,Early
+690,Honduras,Americas,Democracy,Presidential Dem,1971,1,1,Middle
+691,Honduras,Americas,Non-democracy,Military Dict,1972,3,1,Middle
+692,Honduras,Americas,Non-democracy,Military Dict,1975,3,1,Middle
+693,Honduras,Americas,Non-democracy,Military Dict,1978,4,1,Middle
+694,Honduras,Americas,Democracy,Presidential Dem,1982,4,1,Middle
+695,Honduras,Americas,Democracy,Presidential Dem,1986,4,1,Late
+696,Honduras,Americas,Democracy,Presidential Dem,1990,4,1,Late
+697,Honduras,Americas,Democracy,Presidential Dem,1994,4,1,Late
+698,Honduras,Americas,Democracy,Presidential Dem,1998,4,1,Late
+699,Honduras,Americas,Democracy,Presidential Dem,2002,4,1,Late
+700,Honduras,Americas,Democracy,Presidential Dem,2006,3,0,Late
+701,Hungary,Europe,Non-democracy,Civilian Dict,1946,10,1,Early
+702,Hungary,Europe,Non-democracy,Civilian Dict,1956,32,1,Early
+703,Hungary,Europe,Non-democracy,Civilian Dict,1988,1,1,Late
+704,Hungary,Europe,Non-democracy,Civilian Dict,1989,1,1,Late
+705,Hungary,Europe,Democracy,Parliamentary Dem,1990,3,0,Late
+706,Hungary,Europe,Democracy,Parliamentary Dem,1993,1,1,Late
+707,Hungary,Europe,Democracy,Parliamentary Dem,1994,4,1,Late
+708,Hungary,Europe,Democracy,Parliamentary Dem,1998,4,1,Late
+709,Hungary,Europe,Democracy,Parliamentary Dem,2002,2,1,Late
+710,Hungary,Europe,Democracy,Parliamentary Dem,2004,5,0,Late
+711,Iceland,Europe,Democracy,Mixed Dem,1946,1,1,Early
+712,Iceland,Europe,Democracy,Mixed Dem,1947,2,1,Early
+713,Iceland,Europe,Democracy,Mixed Dem,1949,1,1,Early
+714,Iceland,Europe,Democracy,Mixed Dem,1950,3,1,Early
+715,Iceland,Europe,Democracy,Mixed Dem,1953,3,1,Early
+716,Iceland,Europe,Democracy,Mixed Dem,1956,2,1,Early
+717,Iceland,Europe,Democracy,Mixed Dem,1958,1,1,Early
+718,Iceland,Europe,Democracy,Mixed Dem,1959,4,1,Early
+719,Iceland,Europe,Democracy,Mixed Dem,1963,7,0,Early
+720,Iceland,Europe,Democracy,Mixed Dem,1970,1,1,Middle
+721,Iceland,Europe,Democracy,Mixed Dem,1971,3,1,Middle
+722,Iceland,Europe,Democracy,Mixed Dem,1974,4,1,Middle
+723,Iceland,Europe,Democracy,Mixed Dem,1978,1,1,Middle
+724,Iceland,Europe,Democracy,Mixed Dem,1979,1,1,Middle
+725,Iceland,Europe,Democracy,Mixed Dem,1980,3,1,Middle
+726,Iceland,Europe,Democracy,Mixed Dem,1983,4,1,Middle
+727,Iceland,Europe,Democracy,Mixed Dem,1987,1,1,Late
+728,Iceland,Europe,Democracy,Mixed Dem,1988,3,1,Late
+729,Iceland,Europe,Democracy,Mixed Dem,1991,13,1,Late
+730,Iceland,Europe,Democracy,Mixed Dem,2004,2,1,Late
+731,Iceland,Europe,Democracy,Mixed Dem,2006,3,0,Late
+732,India,Asia,Democracy,Parliamentary Dem,1947,17,0,Early
+733,India,Asia,Democracy,Parliamentary Dem,1964,2,1,Early
+734,India,Asia,Democracy,Parliamentary Dem,1966,11,1,Middle
+735,India,Asia,Democracy,Parliamentary Dem,1977,2,1,Middle
+736,India,Asia,Democracy,Parliamentary Dem,1979,1,1,Middle
+737,India,Asia,Democracy,Parliamentary Dem,1980,4,0,Middle
+738,India,Asia,Democracy,Parliamentary Dem,1984,5,0,Middle
+739,India,Asia,Democracy,Parliamentary Dem,1989,1,1,Late
+740,India,Asia,Democracy,Parliamentary Dem,1990,1,1,Late
+741,India,Asia,Democracy,Parliamentary Dem,1991,5,1,Late
+742,India,Asia,Democracy,Parliamentary Dem,1996,1,1,Late
+743,India,Asia,Democracy,Parliamentary Dem,1997,1,1,Late
+744,India,Asia,Democracy,Parliamentary Dem,1998,6,1,Late
+745,India,Asia,Democracy,Parliamentary Dem,2004,5,0,Late
+746,Indonesia,Asia,Non-democracy,Civilian Dict,1949,17,1,Early
+747,Indonesia,Asia,Non-democracy,Military Dict,1966,32,1,Middle
+748,Indonesia,Asia,Non-democracy,Military Dict,1998,1,1,Late
+749,Indonesia,Asia,Democracy,Presidential Dem,1999,2,1,Late
+750,Indonesia,Asia,Democracy,Presidential Dem,2001,3,1,Late
+751,Indonesia,Asia,Democracy,Presidential Dem,2004,5,0,Late
+752,Iran,Asia,Non-democracy,Monarchy,1946,33,1,Early
+753,Iran,Asia,Non-democracy,Civilian Dict,1979,10,0,Middle
+754,Iran,Asia,Non-democracy,Civilian Dict,1989,20,0,Late
+755,Iraq,Asia,Non-democracy,Monarchy,1946,7,1,Early
+756,Iraq,Asia,Non-democracy,Monarchy,1953,5,0,Early
+757,Iraq,Asia,Non-democracy,Military Dict,1958,5,1,Early
+758,Iraq,Asia,Non-democracy,Military Dict,1963,3,0,Early
+759,Iraq,Asia,Non-democracy,Military Dict,1966,2,1,Middle
+760,Iraq,Asia,Non-democracy,Military Dict,1968,11,1,Middle
+761,Iraq,Asia,Non-democracy,Civilian Dict,1979,24,1,Middle
+762,Iraq,Asia,Non-democracy,Military Dict,2003,6,0,Late
+763,Ireland,Europe,Democracy,Mixed Dem,1946,2,1,Early
+764,Ireland,Europe,Democracy,Mixed Dem,1948,3,1,Early
+765,Ireland,Europe,Democracy,Mixed Dem,1951,3,1,Early
+766,Ireland,Europe,Democracy,Mixed Dem,1954,3,1,Early
+767,Ireland,Europe,Democracy,Mixed Dem,1957,2,1,Early
+768,Ireland,Europe,Democracy,Mixed Dem,1959,7,1,Early
+769,Ireland,Europe,Democracy,Mixed Dem,1966,7,1,Middle
+770,Ireland,Europe,Democracy,Mixed Dem,1973,4,1,Middle
+771,Ireland,Europe,Democracy,Mixed Dem,1977,2,1,Middle
+772,Ireland,Europe,Democracy,Mixed Dem,1979,2,1,Middle
+773,Ireland,Europe,Democracy,Mixed Dem,1981,6,1,Middle
+774,Ireland,Europe,Democracy,Mixed Dem,1987,5,1,Late
+775,Ireland,Europe,Democracy,Mixed Dem,1992,2,1,Late
+776,Ireland,Europe,Democracy,Mixed Dem,1994,3,1,Late
+777,Ireland,Europe,Democracy,Mixed Dem,1997,11,1,Late
+778,Ireland,Europe,Democracy,Mixed Dem,2008,1,0,Late
+779,Israel,Asia,Democracy,Parliamentary Dem,1948,5,1,Early
+780,Israel,Asia,Democracy,Parliamentary Dem,1953,2,1,Early
+781,Israel,Asia,Democracy,Parliamentary Dem,1955,8,1,Early
+782,Israel,Asia,Democracy,Parliamentary Dem,1963,6,0,Early
+783,Israel,Asia,Democracy,Parliamentary Dem,1969,5,1,Middle
+784,Israel,Asia,Democracy,Parliamentary Dem,1974,3,1,Middle
+785,Israel,Asia,Democracy,Parliamentary Dem,1977,6,1,Middle
+786,Israel,Asia,Democracy,Parliamentary Dem,1983,1,1,Middle
+787,Israel,Asia,Democracy,Parliamentary Dem,1984,2,1,Middle
+788,Israel,Asia,Democracy,Parliamentary Dem,1986,6,1,Late
+789,Israel,Asia,Democracy,Parliamentary Dem,1992,3,0,Late
+790,Israel,Asia,Democracy,Parliamentary Dem,1995,1,1,Late
+791,Israel,Asia,Democracy,Parliamentary Dem,1996,3,1,Late
+792,Israel,Asia,Democracy,Parliamentary Dem,1999,2,1,Late
+793,Israel,Asia,Democracy,Parliamentary Dem,2001,5,1,Late
+794,Israel,Asia,Democracy,Parliamentary Dem,2006,3,1,Late
+795,Italy,Europe,Democracy,Parliamentary Dem,1946,7,1,Early
+796,Italy,Europe,Democracy,Parliamentary Dem,1953,1,1,Early
+797,Italy,Europe,Democracy,Parliamentary Dem,1954,1,1,Early
+798,Italy,Europe,Democracy,Parliamentary Dem,1955,2,1,Early
+799,Italy,Europe,Democracy,Parliamentary Dem,1957,1,1,Early
+800,Italy,Europe,Democracy,Parliamentary Dem,1958,1,1,Early
+801,Italy,Europe,Democracy,Parliamentary Dem,1959,1,1,Early
+802,Italy,Europe,Democracy,Parliamentary Dem,1960,3,1,Early
+803,Italy,Europe,Democracy,Parliamentary Dem,1963,5,1,Early
+804,Italy,Europe,Democracy,Parliamentary Dem,1968,2,1,Middle
+805,Italy,Europe,Democracy,Parliamentary Dem,1970,2,1,Middle
+806,Italy,Europe,Democracy,Parliamentary Dem,1972,1,1,Middle
+807,Italy,Europe,Democracy,Parliamentary Dem,1973,1,1,Middle
+808,Italy,Europe,Democracy,Parliamentary Dem,1974,2,1,Middle
+809,Italy,Europe,Democracy,Parliamentary Dem,1976,3,1,Middle
+810,Italy,Europe,Democracy,Parliamentary Dem,1979,1,1,Middle
+811,Italy,Europe,Democracy,Parliamentary Dem,1980,1,1,Middle
+812,Italy,Europe,Democracy,Parliamentary Dem,1981,1,1,Middle
+813,Italy,Europe,Democracy,Parliamentary Dem,1982,1,1,Middle
+814,Italy,Europe,Democracy,Parliamentary Dem,1983,4,1,Middle
+815,Italy,Europe,Democracy,Parliamentary Dem,1987,1,1,Late
+816,Italy,Europe,Democracy,Parliamentary Dem,1988,1,1,Late
+817,Italy,Europe,Democracy,Parliamentary Dem,1989,3,1,Late
+818,Italy,Europe,Democracy,Parliamentary Dem,1992,1,1,Late
+819,Italy,Europe,Democracy,Parliamentary Dem,1993,1,1,Late
+820,Italy,Europe,Democracy,Parliamentary Dem,1994,1,1,Late
+821,Italy,Europe,Democracy,Parliamentary Dem,1995,1,1,Late
+822,Italy,Europe,Democracy,Parliamentary Dem,1996,2,1,Late
+823,Italy,Europe,Democracy,Parliamentary Dem,1998,2,1,Late
+824,Italy,Europe,Democracy,Parliamentary Dem,2000,1,1,Late
+825,Italy,Europe,Democracy,Parliamentary Dem,2001,5,1,Late
+826,Italy,Europe,Democracy,Parliamentary Dem,2006,2,1,Late
+827,Italy,Europe,Democracy,Parliamentary Dem,2008,1,0,Late
+828,Jamaica,Americas,Democracy,Parliamentary Dem,1962,5,1,Early
+829,Jamaica,Americas,Democracy,Parliamentary Dem,1967,5,1,Middle
+830,Jamaica,Americas,Democracy,Parliamentary Dem,1972,8,1,Middle
+831,Jamaica,Americas,Democracy,Parliamentary Dem,1980,9,1,Middle
+832,Jamaica,Americas,Democracy,Parliamentary Dem,1989,3,1,Late
+833,Jamaica,Americas,Democracy,Parliamentary Dem,1992,14,1,Late
+834,Jamaica,Americas,Democracy,Parliamentary Dem,2006,1,1,Late
+835,Jamaica,Americas,Democracy,Parliamentary Dem,2007,2,0,Late
+836,Japan,Asia,Democracy,Parliamentary Dem,1946,1,0,Early
+837,Japan,Asia,Democracy,Parliamentary Dem,1947,1,1,Early
+838,Japan,Asia,Democracy,Parliamentary Dem,1948,6,1,Early
+839,Japan,Asia,Democracy,Parliamentary Dem,1954,2,1,Early
+840,Japan,Asia,Democracy,Parliamentary Dem,1956,1,1,Early
+841,Japan,Asia,Democracy,Parliamentary Dem,1957,3,1,Early
+842,Japan,Asia,Democracy,Parliamentary Dem,1960,4,1,Early
+843,Japan,Asia,Democracy,Parliamentary Dem,1964,8,1,Early
+844,Japan,Asia,Democracy,Parliamentary Dem,1972,2,1,Middle
+845,Japan,Asia,Democracy,Parliamentary Dem,1974,2,1,Middle
+846,Japan,Asia,Democracy,Parliamentary Dem,1976,2,1,Middle
+847,Japan,Asia,Democracy,Parliamentary Dem,1978,2,0,Middle
+848,Japan,Asia,Democracy,Parliamentary Dem,1980,2,1,Middle
+849,Japan,Asia,Democracy,Parliamentary Dem,1982,5,1,Middle
+850,Japan,Asia,Democracy,Parliamentary Dem,1987,2,1,Late
+851,Japan,Asia,Democracy,Parliamentary Dem,1989,2,1,Late
+852,Japan,Asia,Democracy,Parliamentary Dem,1991,2,1,Late
+853,Japan,Asia,Democracy,Parliamentary Dem,1993,1,1,Late
+854,Japan,Asia,Democracy,Parliamentary Dem,1994,2,1,Late
+855,Japan,Asia,Democracy,Parliamentary Dem,1996,2,1,Late
+856,Japan,Asia,Democracy,Parliamentary Dem,1998,2,0,Late
+857,Japan,Asia,Democracy,Parliamentary Dem,2000,1,1,Late
+858,Japan,Asia,Democracy,Parliamentary Dem,2001,5,1,Late
+859,Japan,Asia,Democracy,Parliamentary Dem,2006,1,1,Late
+860,Japan,Asia,Democracy,Parliamentary Dem,2007,1,1,Late
+861,Japan,Asia,Democracy,Parliamentary Dem,2008,1,0,Late
+862,Jordan,Asia,Non-democracy,Monarchy,1946,5,0,Early
+863,Jordan,Asia,Non-democracy,Monarchy,1951,1,1,Early
+864,Jordan,Asia,Non-democracy,Monarchy,1952,47,0,Early
+865,Jordan,Asia,Non-democracy,Monarchy,1999,10,0,Late
+866,Kazakhstan,Asia,Non-democracy,Civilian Dict,1991,18,0,Late
+867,Kenya,Africa,Non-democracy,Civilian Dict,1963,15,0,Early
+868,Kenya,Africa,Non-democracy,Civilian Dict,1978,20,1,Middle
+869,Kenya,Africa,Democracy,Presidential Dem,1998,4,1,Late
+870,Kenya,Africa,Democracy,Presidential Dem,2002,7,0,Late
+871,Kiribati,Oceania,Democracy,Parliamentary Dem,1979,3,1,Middle
+872,Kiribati,Oceania,Democracy,Parliamentary Dem,1982,1,1,Middle
+873,Kiribati,Oceania,Democracy,Parliamentary Dem,1983,8,1,Middle
+874,Kiribati,Oceania,Democracy,Parliamentary Dem,1991,3,1,Late
+875,Kiribati,Oceania,Democracy,Parliamentary Dem,1994,9,1,Late
+876,Kiribati,Oceania,Democracy,Parliamentary Dem,2003,6,0,Late
+877,Kuwait,Asia,Non-democracy,Monarchy,1961,4,0,Early
+878,Kuwait,Asia,Non-democracy,Monarchy,1965,12,0,Early
+879,Kuwait,Asia,Non-democracy,Monarchy,1977,29,1,Middle
+880,Kuwait,Asia,Non-democracy,Monarchy,2006,3,0,Late
+881,Kyrgyzstan,Asia,Non-democracy,Civilian Dict,1991,14,1,Late
+882,Kyrgyzstan,Asia,Democracy,Mixed Dem,2005,2,1,Late
+883,Kyrgyzstan,Asia,Democracy,Mixed Dem,2007,2,0,Late
+884,Laos,Asia,Democracy,Parliamentary Dem,1953,1,1,Early
+885,Laos,Asia,Democracy,Parliamentary Dem,1954,2,1,Early
+886,Laos,Asia,Democracy,Parliamentary Dem,1956,2,1,Early
+887,Laos,Asia,Democracy,Parliamentary Dem,1958,1,1,Early
+888,Laos,Asia,Non-democracy,Military Dict,1959,3,1,Early
+889,Laos,Asia,Non-democracy,Civilian Dict,1962,13,1,Early
+890,Laos,Asia,Non-democracy,Civilian Dict,1975,17,0,Middle
+891,Laos,Asia,Non-democracy,Military Dict,1992,14,1,Late
+892,Laos,Asia,Non-democracy,Military Dict,2006,3,0,Late
+893,Latvia,Europe,Democracy,Parliamentary Dem,1991,2,1,Late
+894,Latvia,Europe,Democracy,Parliamentary Dem,1993,1,1,Late
+895,Latvia,Europe,Democracy,Parliamentary Dem,1994,1,1,Late
+896,Latvia,Europe,Democracy,Parliamentary Dem,1995,2,1,Late
+897,Latvia,Europe,Democracy,Parliamentary Dem,1997,1,1,Late
+898,Latvia,Europe,Democracy,Parliamentary Dem,1998,1,1,Late
+899,Latvia,Europe,Democracy,Parliamentary Dem,1999,1,1,Late
+900,Latvia,Europe,Democracy,Parliamentary Dem,2000,2,1,Late
+901,Latvia,Europe,Democracy,Parliamentary Dem,2002,2,1,Late
+902,Latvia,Europe,Democracy,Parliamentary Dem,2004,3,1,Late
+903,Latvia,Europe,Democracy,Parliamentary Dem,2007,2,0,Late
+904,Lebanon,Asia,Democracy,Parliamentary Dem,1946,5,1,Early
+905,Lebanon,Asia,Democracy,Parliamentary Dem,1951,1,1,Early
+906,Lebanon,Asia,Democracy,Parliamentary Dem,1952,1,1,Early
+907,Lebanon,Asia,Democracy,Parliamentary Dem,1953,1,1,Early
+908,Lebanon,Asia,Democracy,Parliamentary Dem,1954,1,1,Early
+909,Lebanon,Asia,Democracy,Parliamentary Dem,1955,1,1,Early
+910,Lebanon,Asia,Democracy,Parliamentary Dem,1956,2,1,Early
+911,Lebanon,Asia,Democracy,Parliamentary Dem,1958,2,1,Early
+912,Lebanon,Asia,Democracy,Parliamentary Dem,1960,1,1,Early
+913,Lebanon,Asia,Democracy,Parliamentary Dem,1961,3,1,Early
+914,Lebanon,Asia,Democracy,Parliamentary Dem,1964,1,1,Early
+915,Lebanon,Asia,Democracy,Parliamentary Dem,1965,3,1,Early
+916,Lebanon,Asia,Democracy,Parliamentary Dem,1968,1,1,Middle
+917,Lebanon,Asia,Democracy,Parliamentary Dem,1969,1,1,Middle
+918,Lebanon,Asia,Democracy,Parliamentary Dem,1970,3,1,Middle
+919,Lebanon,Asia,Democracy,Parliamentary Dem,1973,1,1,Middle
+920,Lebanon,Asia,Democracy,Parliamentary Dem,1974,1,1,Middle
+921,Lebanon,Asia,Non-democracy,Civilian Dict,1975,1,1,Middle
+922,Lebanon,Asia,Non-democracy,Civilian Dict,1976,6,1,Middle
+923,Lebanon,Asia,Non-democracy,Civilian Dict,1982,6,1,Middle
+924,Lebanon,Asia,Non-democracy,Military Dict,1988,1,1,Late
+925,Lebanon,Asia,Non-democracy,Civilian Dict,1989,9,1,Late
+926,Lebanon,Asia,Non-democracy,Military Dict,1998,9,1,Late
+927,Lebanon,Asia,Non-democracy,Civilian Dict,2007,1,1,Late
+928,Lebanon,Asia,Non-democracy,Military Dict,2008,1,0,Late
+929,Lesotho,Africa,Non-democracy,Civilian Dict,1966,20,1,Middle
+930,Lesotho,Africa,Non-democracy,Military Dict,1986,5,1,Late
+931,Lesotho,Africa,Non-democracy,Military Dict,1991,2,1,Late
+932,Lesotho,Africa,Non-democracy,Civilian Dict,1993,5,1,Late
+933,Lesotho,Africa,Non-democracy,Civilian Dict,1998,11,0,Late
+934,Liberia,Africa,Non-democracy,Civilian Dict,1946,25,0,Early
+935,Liberia,Africa,Non-democracy,Civilian Dict,1971,9,0,Middle
+936,Liberia,Africa,Non-democracy,Military Dict,1980,10,0,Middle
+937,Liberia,Africa,Non-democracy,Civilian Dict,1990,3,1,Late
+938,Liberia,Africa,Non-democracy,Civilian Dict,1993,1,1,Late
+939,Liberia,Africa,Non-democracy,Civilian Dict,1994,1,1,Late
+940,Liberia,Africa,Non-democracy,Civilian Dict,1995,1,1,Late
+941,Liberia,Africa,Non-democracy,Civilian Dict,1996,1,1,Late
+942,Liberia,Africa,Non-democracy,Civilian Dict,1997,6,1,Late
+943,Liberia,Africa,Non-democracy,Civilian Dict,2003,3,1,Late
+944,Liberia,Africa,Democracy,Presidential Dem,2006,3,0,Late
+945,Libyan Arab Jamahiriya,Africa,Non-democracy,Monarchy,1951,18,1,Early
+946,Libyan Arab Jamahiriya,Africa,Non-democracy,Military Dict,1969,40,0,Middle
+947,Liechtenstein,Europe,Democracy,Parliamentary Dem,1946,16,1,Early
+948,Liechtenstein,Europe,Democracy,Parliamentary Dem,1962,8,1,Early
+949,Liechtenstein,Europe,Democracy,Parliamentary Dem,1970,4,1,Middle
+950,Liechtenstein,Europe,Democracy,Parliamentary Dem,1974,4,1,Middle
+951,Liechtenstein,Europe,Democracy,Parliamentary Dem,1978,15,1,Middle
+952,Liechtenstein,Europe,Democracy,Parliamentary Dem,1993,8,1,Late
+953,Liechtenstein,Europe,Democracy,Parliamentary Dem,2001,8,0,Late
+954,Lithuania,Europe,Democracy,Mixed Dem,1991,1,1,Late
+955,Lithuania,Europe,Democracy,Mixed Dem,1992,1,1,Late
+956,Lithuania,Europe,Democracy,Mixed Dem,1993,3,1,Late
+957,Lithuania,Europe,Democracy,Mixed Dem,1996,3,1,Late
+958,Lithuania,Europe,Democracy,Mixed Dem,1999,1,1,Late
+959,Lithuania,Europe,Democracy,Mixed Dem,2000,1,1,Late
+960,Lithuania,Europe,Democracy,Mixed Dem,2001,5,1,Late
+961,Lithuania,Europe,Democracy,Mixed Dem,2006,2,1,Late
+962,Lithuania,Europe,Democracy,Mixed Dem,2008,1,0,Late
+963,Luxembourg,Europe,Democracy,Parliamentary Dem,1946,7,0,Early
+964,Luxembourg,Europe,Democracy,Parliamentary Dem,1953,5,1,Early
+965,Luxembourg,Europe,Democracy,Parliamentary Dem,1958,1,1,Early
+966,Luxembourg,Europe,Democracy,Parliamentary Dem,1959,15,1,Early
+967,Luxembourg,Europe,Democracy,Parliamentary Dem,1974,5,1,Middle
+968,Luxembourg,Europe,Democracy,Parliamentary Dem,1979,5,1,Middle
+969,Luxembourg,Europe,Democracy,Parliamentary Dem,1984,11,1,Middle
+970,Luxembourg,Europe,Democracy,Parliamentary Dem,1995,14,0,Late
+971,Macedonia,Europe,Democracy,Mixed Dem,1991,1,1,Late
+972,Macedonia,Europe,Democracy,Mixed Dem,1992,6,1,Late
+973,Macedonia,Europe,Democracy,Mixed Dem,1998,4,1,Late
+974,Macedonia,Europe,Democracy,Mixed Dem,2002,2,1,Late
+975,Macedonia,Europe,Democracy,Mixed Dem,2004,2,1,Late
+976,Macedonia,Europe,Democracy,Mixed Dem,2006,3,0,Late
+977,Madagascar,Africa,Non-democracy,Civilian Dict,1960,12,1,Early
+978,Madagascar,Africa,Non-democracy,Military Dict,1972,3,1,Middle
+979,Madagascar,Africa,Non-democracy,Military Dict,1975,18,1,Middle
+980,Madagascar,Africa,Democracy,Mixed Dem,1993,2,1,Late
+981,Madagascar,Africa,Democracy,Mixed Dem,1995,1,1,Late
+982,Madagascar,Africa,Democracy,Mixed Dem,1996,1,1,Late
+983,Madagascar,Africa,Democracy,Mixed Dem,1997,1,1,Late
+984,Madagascar,Africa,Democracy,Mixed Dem,1998,4,1,Late
+985,Madagascar,Africa,Democracy,Mixed Dem,2002,5,1,Late
+986,Madagascar,Africa,Democracy,Mixed Dem,2007,2,0,Late
+987,Malawi,Africa,Non-democracy,Civilian Dict,1964,30,1,Early
+988,Malawi,Africa,Democracy,Presidential Dem,1994,10,1,Late
+989,Malawi,Africa,Democracy,Presidential Dem,2004,5,0,Late
+990,Malaysia,Asia,Non-democracy,Civilian Dict,1957,13,1,Early
+991,Malaysia,Asia,Non-democracy,Civilian Dict,1970,6,0,Middle
+992,Malaysia,Asia,Non-democracy,Civilian Dict,1976,5,1,Middle
+993,Malaysia,Asia,Non-democracy,Civilian Dict,1981,22,1,Middle
+994,Malaysia,Asia,Non-democracy,Civilian Dict,2003,6,0,Late
+995,Maldives,Asia,Non-democracy,Monarchy,1965,3,1,Early
+996,Maldives,Asia,Non-democracy,Civilian Dict,1968,10,1,Middle
+997,Maldives,Asia,Non-democracy,Civilian Dict,1978,30,1,Middle
+998,Maldives,Asia,Democracy,Presidential Dem,2008,1,0,Late
+999,Mali,Africa,Non-democracy,Civilian Dict,1960,8,1,Early
+1000,Mali,Africa,Non-democracy,Military Dict,1968,23,1,Middle
+1001,Mali,Africa,Non-democracy,Military Dict,1991,1,1,Late
+1002,Mali,Africa,Democracy,Mixed Dem,1992,1,1,Late
+1003,Mali,Africa,Democracy,Mixed Dem,1993,1,1,Late
+1004,Mali,Africa,Democracy,Mixed Dem,1994,6,1,Late
+1005,Mali,Africa,Democracy,Mixed Dem,2000,2,1,Late
+1006,Mali,Africa,Democracy,Mixed Dem,2002,2,1,Late
+1007,Mali,Africa,Democracy,Mixed Dem,2004,3,1,Late
+1008,Mali,Africa,Democracy,Mixed Dem,2007,2,0,Late
+1009,Malta,Europe,Democracy,Parliamentary Dem,1964,7,1,Early
+1010,Malta,Europe,Democracy,Parliamentary Dem,1971,13,1,Middle
+1011,Malta,Europe,Democracy,Parliamentary Dem,1984,3,1,Middle
+1012,Malta,Europe,Democracy,Parliamentary Dem,1987,9,1,Late
+1013,Malta,Europe,Democracy,Parliamentary Dem,1996,2,1,Late
+1014,Malta,Europe,Democracy,Parliamentary Dem,1998,6,1,Late
+1015,Malta,Europe,Democracy,Parliamentary Dem,2004,5,0,Late
+1016,Marshall Islands,Oceania,Democracy,Parliamentary Dem,1990,6,0,Late
+1017,Marshall Islands,Oceania,Democracy,Parliamentary Dem,1996,1,1,Late
+1018,Marshall Islands,Oceania,Democracy,Parliamentary Dem,1997,3,1,Late
+1019,Marshall Islands,Oceania,Democracy,Parliamentary Dem,2000,8,1,Late
+1020,Marshall Islands,Oceania,Democracy,Parliamentary Dem,2008,1,0,Late
+1021,Mauritania,Africa,Non-democracy,Civilian Dict,1960,18,1,Early
+1022,Mauritania,Africa,Non-democracy,Military Dict,1978,1,1,Middle
+1023,Mauritania,Africa,Non-democracy,Military Dict,1979,1,1,Middle
+1024,Mauritania,Africa,Non-democracy,Military Dict,1980,4,1,Middle
+1025,Mauritania,Africa,Non-democracy,Military Dict,1984,21,1,Middle
+1026,Mauritania,Africa,Non-democracy,Military Dict,2005,2,1,Late
+1027,Mauritania,Africa,Democracy,Mixed Dem,2007,1,1,Late
+1028,Mauritania,Africa,Non-democracy,Military Dict,2008,1,0,Late
+1029,Mauritius,Africa,Democracy,Parliamentary Dem,1968,14,1,Middle
+1030,Mauritius,Africa,Democracy,Parliamentary Dem,1982,13,1,Middle
+1031,Mauritius,Africa,Democracy,Parliamentary Dem,1995,5,1,Late
+1032,Mauritius,Africa,Democracy,Parliamentary Dem,2000,3,1,Late
+1033,Mauritius,Africa,Democracy,Parliamentary Dem,2003,2,1,Late
+1034,Mauritius,Africa,Democracy,Parliamentary Dem,2005,4,0,Late
+1035,Mexico,Americas,Non-democracy,Civilian Dict,1946,6,1,Early
+1036,Mexico,Americas,Non-democracy,Military Dict,1952,6,1,Early
+1037,Mexico,Americas,Non-democracy,Civilian Dict,1958,6,1,Early
+1038,Mexico,Americas,Non-democracy,Civilian Dict,1964,6,1,Early
+1039,Mexico,Americas,Non-democracy,Civilian Dict,1970,6,1,Middle
+1040,Mexico,Americas,Non-democracy,Civilian Dict,1976,6,1,Middle
+1041,Mexico,Americas,Non-democracy,Civilian Dict,1982,6,1,Middle
+1042,Mexico,Americas,Non-democracy,Civilian Dict,1988,6,1,Late
+1043,Mexico,Americas,Non-democracy,Civilian Dict,1994,6,1,Late
+1044,Mexico,Americas,Democracy,Presidential Dem,2000,6,1,Late
+1045,Mexico,Americas,Democracy,Presidential Dem,2006,3,0,Late
+1046,"Micronesia, Federated States of",Oceania,Democracy,Presidential Dem,1991,5,1,Late
+1047,"Micronesia, Federated States of",Oceania,Democracy,Presidential Dem,1996,3,1,Late
+1048,"Micronesia, Federated States of",Oceania,Democracy,Presidential Dem,1999,4,1,Late
+1049,"Micronesia, Federated States of",Oceania,Democracy,Presidential Dem,2003,4,1,Late
+1050,"Micronesia, Federated States of",Oceania,Democracy,Presidential Dem,2007,2,0,Late
+1051,Moldova,Europe,Democracy,Parliamentary Dem,1991,5,1,Late
+1052,Moldova,Europe,Democracy,Parliamentary Dem,1996,1,1,Late
+1053,Moldova,Europe,Democracy,Mixed Dem,1997,2,1,Late
+1054,Moldova,Europe,Democracy,Mixed Dem,1999,1,1,Late
+1055,Moldova,Europe,Democracy,Parliamentary Dem,2000,1,1,Late
+1056,Moldova,Europe,Democracy,Parliamentary Dem,2001,7,1,Late
+1057,Moldova,Europe,Democracy,Parliamentary Dem,2008,1,0,Late
+1058,Mongolia,Asia,Non-democracy,Civilian Dict,1946,8,1,Early
+1059,Mongolia,Asia,Non-democracy,Civilian Dict,1954,4,1,Early
+1060,Mongolia,Asia,Non-democracy,Civilian Dict,1958,26,1,Early
+1061,Mongolia,Asia,Non-democracy,Civilian Dict,1984,6,1,Middle
+1062,Mongolia,Asia,Democracy,Parliamentary Dem,1990,2,1,Late
+1063,Mongolia,Asia,Democracy,Mixed Dem,1992,4,1,Late
+1064,Mongolia,Asia,Democracy,Mixed Dem,1996,2,1,Late
+1065,Mongolia,Asia,Democracy,Mixed Dem,1998,1,1,Late
+1066,Mongolia,Asia,Democracy,Mixed Dem,1999,1,1,Late
+1067,Mongolia,Asia,Democracy,Mixed Dem,2000,4,1,Late
+1068,Mongolia,Asia,Democracy,Mixed Dem,2004,2,1,Late
+1069,Mongolia,Asia,Democracy,Mixed Dem,2006,1,1,Late
+1070,Mongolia,Asia,Democracy,Mixed Dem,2007,2,0,Late
+1071,Montenegro,Europe,Non-democracy,Civilian Dict,2006,3,0,Late
+1072,Morocco,Africa,Non-democracy,Monarchy,1956,5,0,Early
+1073,Morocco,Africa,Non-democracy,Monarchy,1961,38,0,Early
+1074,Morocco,Africa,Non-democracy,Monarchy,1999,10,0,Late
+1075,Mozambique,Africa,Non-democracy,Civilian Dict,1975,11,0,Middle
+1076,Mozambique,Africa,Non-democracy,Civilian Dict,1986,19,1,Late
+1077,Mozambique,Africa,Non-democracy,Civilian Dict,2005,4,0,Late
+1078,Myanmar,Asia,Democracy,Parliamentary Dem,1948,8,1,Early
+1079,Myanmar,Asia,Democracy,Parliamentary Dem,1956,1,1,Early
+1080,Myanmar,Asia,Democracy,Parliamentary Dem,1957,1,1,Early
+1081,Myanmar,Asia,Non-democracy,Military Dict,1958,2,1,Early
+1082,Myanmar,Asia,Democracy,Parliamentary Dem,1960,2,1,Early
+1083,Myanmar,Asia,Non-democracy,Military Dict,1962,26,1,Early
+1084,Myanmar,Asia,Non-democracy,Military Dict,1988,4,1,Late
+1085,Myanmar,Asia,Non-democracy,Military Dict,1992,17,0,Late
+1086,Namibia,Africa,Non-democracy,Civilian Dict,1990,15,1,Late
+1087,Namibia,Africa,Non-democracy,Civilian Dict,2005,4,0,Late
+1088,Nauru,Oceania,Democracy,Parliamentary Dem,1968,8,1,Middle
+1089,Nauru,Oceania,Democracy,Parliamentary Dem,1976,2,1,Middle
+1090,Nauru,Oceania,Democracy,Parliamentary Dem,1978,11,1,Middle
+1091,Nauru,Oceania,Democracy,Parliamentary Dem,1989,6,1,Late
+1092,Nauru,Oceania,Democracy,Parliamentary Dem,1995,1,1,Late
+1093,Nauru,Oceania,Democracy,Parliamentary Dem,1996,1,1,Late
+1094,Nauru,Oceania,Democracy,Parliamentary Dem,1997,1,1,Late
+1095,Nauru,Oceania,Democracy,Parliamentary Dem,1998,1,1,Late
+1096,Nauru,Oceania,Democracy,Parliamentary Dem,1999,1,1,Late
+1097,Nauru,Oceania,Democracy,Parliamentary Dem,2000,1,1,Late
+1098,Nauru,Oceania,Democracy,Parliamentary Dem,2001,3,1,Late
+1099,Nauru,Oceania,Democracy,Parliamentary Dem,2004,3,1,Late
+1100,Nauru,Oceania,Democracy,Parliamentary Dem,2007,2,0,Late
+1101,Nepal,Asia,Non-democracy,Civilian Dict,1946,2,1,Early
+1102,Nepal,Asia,Non-democracy,Civilian Dict,1948,3,1,Early
+1103,Nepal,Asia,Non-democracy,Monarchy,1951,4,0,Early
+1104,Nepal,Asia,Non-democracy,Monarchy,1955,17,0,Early
+1105,Nepal,Asia,Non-democracy,Monarchy,1972,18,1,Middle
+1106,Nepal,Asia,Democracy,Parliamentary Dem,1990,1,1,Late
+1107,Nepal,Asia,Democracy,Parliamentary Dem,1991,3,1,Late
+1108,Nepal,Asia,Democracy,Parliamentary Dem,1994,1,1,Late
+1109,Nepal,Asia,Democracy,Parliamentary Dem,1995,2,1,Late
+1110,Nepal,Asia,Democracy,Parliamentary Dem,1997,1,1,Late
+1111,Nepal,Asia,Democracy,Parliamentary Dem,1998,1,1,Late
+1112,Nepal,Asia,Democracy,Parliamentary Dem,1999,1,1,Late
+1113,Nepal,Asia,Democracy,Parliamentary Dem,2000,1,1,Late
+1114,Nepal,Asia,Democracy,Parliamentary Dem,2001,1,1,Late
+1115,Nepal,Asia,Non-democracy,Monarchy,2002,6,1,Late
+1116,Nepal,Asia,Democracy,Parliamentary Dem,2008,1,0,Late
+1117,Netherlands,Europe,Democracy,Parliamentary Dem,1946,2,1,Early
+1118,Netherlands,Europe,Democracy,Parliamentary Dem,1948,10,1,Early
+1119,Netherlands,Europe,Democracy,Parliamentary Dem,1958,1,1,Early
+1120,Netherlands,Europe,Democracy,Parliamentary Dem,1959,4,1,Early
+1121,Netherlands,Europe,Democracy,Parliamentary Dem,1963,2,1,Early
+1122,Netherlands,Europe,Democracy,Parliamentary Dem,1965,2,1,Early
+1123,Netherlands,Europe,Democracy,Parliamentary Dem,1967,4,1,Middle
+1124,Netherlands,Europe,Democracy,Parliamentary Dem,1971,2,1,Middle
+1125,Netherlands,Europe,Democracy,Parliamentary Dem,1973,4,1,Middle
+1126,Netherlands,Europe,Democracy,Parliamentary Dem,1977,5,1,Middle
+1127,Netherlands,Europe,Democracy,Parliamentary Dem,1982,12,1,Middle
+1128,Netherlands,Europe,Democracy,Parliamentary Dem,1994,8,1,Late
+1129,Netherlands,Europe,Democracy,Parliamentary Dem,2002,7,0,Late
+1130,New Zealand,Oceania,Democracy,Parliamentary Dem,1946,3,1,Early
+1131,New Zealand,Oceania,Democracy,Parliamentary Dem,1949,8,1,Early
+1132,New Zealand,Oceania,Democracy,Parliamentary Dem,1957,3,1,Early
+1133,New Zealand,Oceania,Democracy,Parliamentary Dem,1960,12,1,Early
+1134,New Zealand,Oceania,Democracy,Parliamentary Dem,1972,2,0,Middle
+1135,New Zealand,Oceania,Democracy,Parliamentary Dem,1974,1,1,Middle
+1136,New Zealand,Oceania,Democracy,Parliamentary Dem,1975,9,1,Middle
+1137,New Zealand,Oceania,Democracy,Parliamentary Dem,1984,5,1,Middle
+1138,New Zealand,Oceania,Democracy,Parliamentary Dem,1989,1,1,Late
+1139,New Zealand,Oceania,Democracy,Parliamentary Dem,1990,7,1,Late
+1140,New Zealand,Oceania,Democracy,Parliamentary Dem,1997,2,1,Late
+1141,New Zealand,Oceania,Democracy,Parliamentary Dem,1999,9,1,Late
+1142,New Zealand,Oceania,Democracy,Parliamentary Dem,2008,1,0,Late
+1143,Nicaragua,Americas,Non-democracy,Military Dict,1946,10,0,Early
+1144,Nicaragua,Americas,Non-democracy,Civilian Dict,1956,11,1,Early
+1145,Nicaragua,Americas,Non-democracy,Military Dict,1967,12,1,Middle
+1146,Nicaragua,Americas,Non-democracy,Civilian Dict,1979,5,1,Middle
+1147,Nicaragua,Americas,Democracy,Presidential Dem,1984,6,1,Middle
+1148,Nicaragua,Americas,Democracy,Presidential Dem,1990,7,1,Late
+1149,Nicaragua,Americas,Democracy,Presidential Dem,1997,5,1,Late
+1150,Nicaragua,Americas,Democracy,Presidential Dem,2002,5,1,Late
+1151,Nicaragua,Americas,Democracy,Presidential Dem,2007,2,0,Late
+1152,Niger,Africa,Non-democracy,Civilian Dict,1960,14,1,Early
+1153,Niger,Africa,Non-democracy,Military Dict,1974,13,0,Middle
+1154,Niger,Africa,Non-democracy,Military Dict,1987,6,1,Late
+1155,Niger,Africa,Democracy,Mixed Dem,1993,1,1,Late
+1156,Niger,Africa,Democracy,Mixed Dem,1994,1,1,Late
+1157,Niger,Africa,Democracy,Mixed Dem,1995,1,1,Late
+1158,Niger,Africa,Non-democracy,Military Dict,1996,3,0,Late
+1159,Niger,Africa,Non-democracy,Military Dict,1999,1,1,Late
+1160,Niger,Africa,Democracy,Mixed Dem,2000,7,1,Late
+1161,Niger,Africa,Democracy,Mixed Dem,2007,2,0,Late
+1162,Nigeria,Africa,Democracy,Parliamentary Dem,1960,6,0,Early
+1163,Nigeria,Africa,Non-democracy,Military Dict,1966,9,1,Middle
+1164,Nigeria,Africa,Non-democracy,Military Dict,1975,1,0,Middle
+1165,Nigeria,Africa,Non-democracy,Military Dict,1976,3,1,Middle
+1166,Nigeria,Africa,Democracy,Presidential Dem,1979,4,1,Middle
+1167,Nigeria,Africa,Non-democracy,Military Dict,1983,2,1,Middle
+1168,Nigeria,Africa,Non-democracy,Military Dict,1985,8,1,Middle
+1169,Nigeria,Africa,Non-democracy,Military Dict,1993,5,0,Late
+1170,Nigeria,Africa,Non-democracy,Military Dict,1998,1,1,Late
+1171,Nigeria,Africa,Democracy,Presidential Dem,1999,8,1,Late
+1172,Nigeria,Africa,Democracy,Presidential Dem,2007,2,0,Late
+1173,North Korea,Asia,Non-democracy,Military Dict,1948,46,0,Early
+1174,North Korea,Asia,Non-democracy,Civilian Dict,1994,15,0,Late
+1175,Norway,Europe,Democracy,Parliamentary Dem,1946,5,1,Early
+1176,Norway,Europe,Democracy,Parliamentary Dem,1951,4,1,Early
+1177,Norway,Europe,Democracy,Parliamentary Dem,1955,10,1,Early
+1178,Norway,Europe,Democracy,Parliamentary Dem,1965,6,1,Early
+1179,Norway,Europe,Democracy,Parliamentary Dem,1971,1,1,Middle
+1180,Norway,Europe,Democracy,Parliamentary Dem,1972,1,1,Middle
+1181,Norway,Europe,Democracy,Parliamentary Dem,1973,3,1,Middle
+1182,Norway,Europe,Democracy,Parliamentary Dem,1976,5,1,Middle
+1183,Norway,Europe,Democracy,Parliamentary Dem,1981,5,1,Middle
+1184,Norway,Europe,Democracy,Parliamentary Dem,1986,3,1,Late
+1185,Norway,Europe,Democracy,Parliamentary Dem,1989,1,1,Late
+1186,Norway,Europe,Democracy,Parliamentary Dem,1990,6,1,Late
+1187,Norway,Europe,Democracy,Parliamentary Dem,1996,1,1,Late
+1188,Norway,Europe,Democracy,Parliamentary Dem,1997,3,1,Late
+1189,Norway,Europe,Democracy,Parliamentary Dem,2000,1,1,Late
+1190,Norway,Europe,Democracy,Parliamentary Dem,2001,4,1,Late
+1191,Norway,Europe,Democracy,Parliamentary Dem,2005,4,0,Late
+1192,Oman,Asia,Non-democracy,Monarchy,1970,39,0,Middle
+1193,Pakistan,Asia,Democracy,Parliamentary Dem,1947,4,0,Early
+1194,Pakistan,Asia,Democracy,Parliamentary Dem,1951,2,1,Early
+1195,Pakistan,Asia,Democracy,Parliamentary Dem,1953,2,1,Early
+1196,Pakistan,Asia,Democracy,Parliamentary Dem,1955,1,1,Early
+1197,Pakistan,Asia,Democracy,Parliamentary Dem,1956,2,1,Early
+1198,Pakistan,Asia,Non-democracy,Military Dict,1958,11,1,Early
+1199,Pakistan,Asia,Non-democracy,Military Dict,1969,2,1,Middle
+1200,Pakistan,Asia,Non-democracy,Civilian Dict,1971,1,1,Middle
+1201,Pakistan,Asia,Democracy,Mixed Dem,1972,5,1,Middle
+1202,Pakistan,Asia,Non-democracy,Military Dict,1977,11,0,Middle
+1203,Pakistan,Asia,Democracy,Parliamentary Dem,1988,2,1,Late
+1204,Pakistan,Asia,Democracy,Parliamentary Dem,1990,3,1,Late
+1205,Pakistan,Asia,Democracy,Parliamentary Dem,1993,3,1,Late
+1206,Pakistan,Asia,Democracy,Parliamentary Dem,1996,1,1,Late
+1207,Pakistan,Asia,Democracy,Parliamentary Dem,1997,2,1,Late
+1208,Pakistan,Asia,Non-democracy,Military Dict,1999,9,1,Late
+1209,Pakistan,Asia,Democracy,Parliamentary Dem,2008,1,0,Late
+1210,Palau,Oceania,Democracy,Presidential Dem,1994,7,1,Late
+1211,Palau,Oceania,Democracy,Presidential Dem,2001,8,0,Late
+1212,Panama,Americas,Non-democracy,Civilian Dict,1946,2,1,Early
+1213,Panama,Americas,Non-democracy,Civilian Dict,1948,1,1,Early
+1214,Panama,Americas,Democracy,Presidential Dem,1949,2,1,Early
+1215,Panama,Americas,Non-democracy,Military Dict,1951,1,1,Early
+1216,Panama,Americas,Democracy,Presidential Dem,1952,3,0,Early
+1217,Panama,Americas,Democracy,Presidential Dem,1955,1,1,Early
+1218,Panama,Americas,Democracy,Presidential Dem,1956,4,1,Early
+1219,Panama,Americas,Democracy,Presidential Dem,1960,4,1,Early
+1220,Panama,Americas,Democracy,Presidential Dem,1964,4,1,Early
+1221,Panama,Americas,Non-democracy,Military Dict,1968,13,0,Middle
+1222,Panama,Americas,Non-democracy,Military Dict,1981,2,1,Middle
+1223,Panama,Americas,Non-democracy,Military Dict,1983,6,1,Middle
+1224,Panama,Americas,Democracy,Presidential Dem,1989,5,1,Late
+1225,Panama,Americas,Democracy,Presidential Dem,1994,5,1,Late
+1226,Panama,Americas,Democracy,Presidential Dem,1999,5,1,Late
+1227,Panama,Americas,Democracy,Presidential Dem,2004,5,0,Late
+1228,Papua New Guinea,Oceania,Democracy,Parliamentary Dem,1975,5,1,Middle
+1229,Papua New Guinea,Oceania,Democracy,Parliamentary Dem,1980,2,1,Middle
+1230,Papua New Guinea,Oceania,Democracy,Parliamentary Dem,1982,3,1,Middle
+1231,Papua New Guinea,Oceania,Democracy,Parliamentary Dem,1985,3,1,Middle
+1232,Papua New Guinea,Oceania,Democracy,Parliamentary Dem,1988,4,1,Late
+1233,Papua New Guinea,Oceania,Democracy,Parliamentary Dem,1992,2,1,Late
+1234,Papua New Guinea,Oceania,Democracy,Parliamentary Dem,1994,3,1,Late
+1235,Papua New Guinea,Oceania,Democracy,Parliamentary Dem,1997,2,1,Late
+1236,Papua New Guinea,Oceania,Democracy,Parliamentary Dem,1999,3,1,Late
+1237,Papua New Guinea,Oceania,Democracy,Parliamentary Dem,2002,7,0,Late
+1238,Paraguay,Americas,Non-democracy,Military Dict,1946,2,1,Early
+1239,Paraguay,Americas,Non-democracy,Civilian Dict,1948,1,1,Early
+1240,Paraguay,Americas,Non-democracy,Civilian Dict,1949,5,1,Early
+1241,Paraguay,Americas,Non-democracy,Military Dict,1954,35,1,Early
+1242,Paraguay,Americas,Democracy,Presidential Dem,1989,4,1,Late
+1243,Paraguay,Americas,Democracy,Presidential Dem,1993,5,1,Late
+1244,Paraguay,Americas,Democracy,Presidential Dem,1998,1,1,Late
+1245,Paraguay,Americas,Democracy,Presidential Dem,1999,4,1,Late
+1246,Paraguay,Americas,Democracy,Presidential Dem,2003,5,1,Late
+1247,Paraguay,Americas,Democracy,Presidential Dem,2008,1,0,Late
+1248,Peru,Americas,Democracy,Presidential Dem,1946,2,1,Early
+1249,Peru,Americas,Non-democracy,Military Dict,1948,8,1,Early
+1250,Peru,Americas,Democracy,Presidential Dem,1956,6,1,Early
+1251,Peru,Americas,Non-democracy,Military Dict,1962,1,1,Early
+1252,Peru,Americas,Democracy,Presidential Dem,1963,5,1,Early
+1253,Peru,Americas,Non-democracy,Military Dict,1968,7,1,Middle
+1254,Peru,Americas,Non-democracy,Military Dict,1975,5,1,Middle
+1255,Peru,Americas,Democracy,Presidential Dem,1980,5,1,Middle
+1256,Peru,Americas,Democracy,Presidential Dem,1985,5,1,Middle
+1257,Peru,Americas,Non-democracy,Civilian Dict,1990,10,1,Late
+1258,Peru,Americas,Non-democracy,Civilian Dict,2000,1,1,Late
+1259,Peru,Americas,Democracy,Presidential Dem,2001,5,1,Late
+1260,Peru,Americas,Democracy,Presidential Dem,2006,3,0,Late
+1261,Philippines,Asia,Democracy,Presidential Dem,1946,2,0,Early
+1262,Philippines,Asia,Democracy,Presidential Dem,1948,6,1,Early
+1263,Philippines,Asia,Democracy,Presidential Dem,1954,3,0,Early
+1264,Philippines,Asia,Democracy,Presidential Dem,1957,4,1,Early
+1265,Philippines,Asia,Democracy,Presidential Dem,1961,4,1,Early
+1266,Philippines,Asia,Non-democracy,Civilian Dict,1965,21,1,Early
+1267,Philippines,Asia,Democracy,Presidential Dem,1986,6,1,Late
+1268,Philippines,Asia,Democracy,Presidential Dem,1992,6,1,Late
+1269,Philippines,Asia,Democracy,Presidential Dem,1998,3,1,Late
+1270,Philippines,Asia,Democracy,Presidential Dem,2001,8,0,Late
+1271,Poland,Europe,Non-democracy,Civilian Dict,1946,2,1,Early
+1272,Poland,Europe,Non-democracy,Civilian Dict,1948,8,1,Early
+1273,Poland,Europe,Non-democracy,Civilian Dict,1956,14,1,Early
+1274,Poland,Europe,Non-democracy,Civilian Dict,1970,10,1,Middle
+1275,Poland,Europe,Non-democracy,Civilian Dict,1980,1,1,Middle
+1276,Poland,Europe,Non-democracy,Military Dict,1981,8,1,Middle
+1277,Poland,Europe,Democracy,Mixed Dem,1989,2,1,Late
+1278,Poland,Europe,Democracy,Mixed Dem,1991,1,1,Late
+1279,Poland,Europe,Democracy,Mixed Dem,1992,1,1,Late
+1280,Poland,Europe,Democracy,Mixed Dem,1993,2,1,Late
+1281,Poland,Europe,Democracy,Mixed Dem,1995,1,1,Late
+1282,Poland,Europe,Democracy,Mixed Dem,1996,1,1,Late
+1283,Poland,Europe,Democracy,Mixed Dem,1997,4,1,Late
+1284,Poland,Europe,Democracy,Mixed Dem,2001,3,1,Late
+1285,Poland,Europe,Democracy,Mixed Dem,2004,1,1,Late
+1286,Poland,Europe,Democracy,Mixed Dem,2005,1,1,Late
+1287,Poland,Europe,Democracy,Mixed Dem,2006,1,1,Late
+1288,Poland,Europe,Democracy,Mixed Dem,2007,2,0,Late
+1289,Portugal,Europe,Non-democracy,Civilian Dict,1946,22,1,Early
+1290,Portugal,Europe,Non-democracy,Civilian Dict,1968,6,1,Middle
+1291,Portugal,Europe,Non-democracy,Military Dict,1974,2,1,Middle
+1292,Portugal,Europe,Democracy,Mixed Dem,1976,2,1,Middle
+1293,Portugal,Europe,Democracy,Mixed Dem,1978,1,1,Middle
+1294,Portugal,Europe,Democracy,Mixed Dem,1979,1,1,Middle
+1295,Portugal,Europe,Democracy,Mixed Dem,1980,1,1,Middle
+1296,Portugal,Europe,Democracy,Mixed Dem,1981,2,1,Middle
+1297,Portugal,Europe,Democracy,Mixed Dem,1983,2,1,Middle
+1298,Portugal,Europe,Democracy,Mixed Dem,1985,10,1,Middle
+1299,Portugal,Europe,Democracy,Mixed Dem,1995,7,1,Late
+1300,Portugal,Europe,Democracy,Mixed Dem,2002,2,1,Late
+1301,Portugal,Europe,Democracy,Mixed Dem,2004,1,1,Late
+1302,Portugal,Europe,Democracy,Mixed Dem,2005,4,0,Late
+1303,Qatar,Asia,Non-democracy,Monarchy,1971,1,1,Middle
+1304,Qatar,Asia,Non-democracy,Monarchy,1972,23,1,Middle
+1305,Qatar,Asia,Non-democracy,Monarchy,1995,14,0,Late
+1306,Romania,Europe,Non-democracy,Civilian Dict,1946,8,1,Early
+1307,Romania,Europe,Non-democracy,Civilian Dict,1954,1,1,Early
+1308,Romania,Europe,Non-democracy,Civilian Dict,1955,10,0,Early
+1309,Romania,Europe,Non-democracy,Civilian Dict,1965,25,0,Early
+1310,Romania,Europe,Democracy,Mixed Dem,1990,1,1,Late
+1311,Romania,Europe,Democracy,Mixed Dem,1991,1,1,Late
+1312,Romania,Europe,Democracy,Mixed Dem,1992,4,1,Late
+1313,Romania,Europe,Democracy,Mixed Dem,1996,2,1,Late
+1314,Romania,Europe,Democracy,Mixed Dem,1998,1,1,Late
+1315,Romania,Europe,Democracy,Mixed Dem,1999,1,1,Late
+1316,Romania,Europe,Democracy,Mixed Dem,2000,4,1,Late
+1317,Romania,Europe,Democracy,Mixed Dem,2004,4,1,Late
+1318,Romania,Europe,Democracy,Mixed Dem,2008,1,0,Late
+1319,Russian Federation,Europe,Non-democracy,Civilian Dict,1991,8,1,Late
+1320,Russian Federation,Europe,Non-democracy,Civilian Dict,1999,9,1,Late
+1321,Russian Federation,Europe,Non-democracy,Civilian Dict,2008,1,0,Late
+1322,Rwanda,Africa,Non-democracy,Civilian Dict,1962,11,1,Early
+1323,Rwanda,Africa,Non-democracy,Military Dict,1973,21,0,Middle
+1324,Rwanda,Africa,Non-democracy,Military Dict,1994,15,0,Late
+1325,Samoa,Oceania,Non-democracy,Monarchy,1962,1,0,Early
+1326,Samoa,Oceania,Non-democracy,Monarchy,1963,44,0,Early
+1327,Samoa,Oceania,Non-democracy,Monarchy,2007,2,0,Late
+1328,San Marino,Europe,Democracy,Parliamentary Dem,1992,1,1,Late
+1329,San Marino,Europe,Democracy,Parliamentary Dem,1993,1,1,Late
+1330,San Marino,Europe,Democracy,Parliamentary Dem,1994,1,1,Late
+1331,San Marino,Europe,Democracy,Parliamentary Dem,1995,1,1,Late
+1332,San Marino,Europe,Democracy,Parliamentary Dem,1996,1,1,Late
+1333,San Marino,Europe,Democracy,Parliamentary Dem,1997,1,1,Late
+1334,San Marino,Europe,Democracy,Parliamentary Dem,1998,1,1,Late
+1335,San Marino,Europe,Democracy,Parliamentary Dem,1999,1,1,Late
+1336,San Marino,Europe,Democracy,Parliamentary Dem,2000,1,1,Late
+1337,San Marino,Europe,Democracy,Parliamentary Dem,2001,1,1,Late
+1338,San Marino,Europe,Democracy,Parliamentary Dem,2002,1,1,Late
+1339,San Marino,Europe,Democracy,Parliamentary Dem,2003,1,1,Late
+1340,San Marino,Europe,Democracy,Parliamentary Dem,2004,1,1,Late
+1341,San Marino,Europe,Democracy,Parliamentary Dem,2005,1,1,Late
+1342,San Marino,Europe,Democracy,Parliamentary Dem,2006,1,1,Late
+1343,San Marino,Europe,Democracy,Parliamentary Dem,2007,1,1,Late
+1344,San Marino,Europe,Democracy,Parliamentary Dem,2008,1,0,Late
+1345,Sao Tome and Principe,Africa,Non-democracy,Civilian Dict,1975,16,1,Middle
+1346,Sao Tome and Principe,Africa,Democracy,Mixed Dem,1991,1,1,Late
+1347,Sao Tome and Principe,Africa,Democracy,Mixed Dem,1992,2,1,Late
+1348,Sao Tome and Principe,Africa,Democracy,Mixed Dem,1994,1,1,Late
+1349,Sao Tome and Principe,Africa,Democracy,Mixed Dem,1995,1,1,Late
+1350,Sao Tome and Principe,Africa,Democracy,Mixed Dem,1996,3,1,Late
+1351,Sao Tome and Principe,Africa,Democracy,Mixed Dem,1999,2,1,Late
+1352,Sao Tome and Principe,Africa,Democracy,Mixed Dem,2001,1,1,Late
+1353,Sao Tome and Principe,Africa,Democracy,Mixed Dem,2002,2,1,Late
+1354,Sao Tome and Principe,Africa,Democracy,Mixed Dem,2004,1,1,Late
+1355,Sao Tome and Principe,Africa,Democracy,Mixed Dem,2005,1,1,Late
+1356,Sao Tome and Principe,Africa,Democracy,Mixed Dem,2006,2,1,Late
+1357,Sao Tome and Principe,Africa,Democracy,Mixed Dem,2008,1,0,Late
+1358,Saudi Arabia,Asia,Non-democracy,Monarchy,1946,7,0,Early
+1359,Saudi Arabia,Asia,Non-democracy,Monarchy,1953,11,1,Early
+1360,Saudi Arabia,Asia,Non-democracy,Monarchy,1964,11,0,Early
+1361,Saudi Arabia,Asia,Non-democracy,Monarchy,1975,7,0,Middle
+1362,Saudi Arabia,Asia,Non-democracy,Monarchy,1982,14,1,Middle
+1363,Saudi Arabia,Asia,Non-democracy,Monarchy,1996,13,0,Late
+1364,Senegal,Africa,Non-democracy,Civilian Dict,1960,21,1,Early
+1365,Senegal,Africa,Non-democracy,Civilian Dict,1981,19,1,Middle
+1366,Senegal,Africa,Democracy,Mixed Dem,2000,1,1,Late
+1367,Senegal,Africa,Democracy,Mixed Dem,2001,1,1,Late
+1368,Senegal,Africa,Democracy,Mixed Dem,2002,2,1,Late
+1369,Senegal,Africa,Democracy,Mixed Dem,2004,3,1,Late
+1370,Senegal,Africa,Democracy,Mixed Dem,2007,2,0,Late
+1371,Serbia,Europe,Democracy,Mixed Dem,2006,2,1,Late
+1372,Serbia,Europe,Democracy,Mixed Dem,2008,1,0,Late
+1373,Serbia and Montenegro,Europe,Non-democracy,Civilian Dict,1991,9,1,Late
+1374,Serbia and Montenegro,Europe,Democracy,Mixed Dem,2000,1,1,Late
+1375,Serbia and Montenegro,Europe,Democracy,Mixed Dem,2001,2,0,Late
+1376,Serbia and Montenegro,Europe,Democracy,Mixed Dem,2003,1,1,Late
+1377,Serbia and Montenegro,Europe,Democracy,Mixed Dem,2004,2,0,Late
+1378,Seychelles,Africa,Non-democracy,Civilian Dict,1976,1,1,Middle
+1379,Seychelles,Africa,Non-democracy,Civilian Dict,1977,27,1,Middle
+1380,Seychelles,Africa,Non-democracy,Civilian Dict,2004,5,0,Late
+1381,Sierra Leone,Africa,Democracy,Parliamentary Dem,1961,3,0,Early
+1382,Sierra Leone,Africa,Democracy,Parliamentary Dem,1964,3,1,Early
+1383,Sierra Leone,Africa,Non-democracy,Military Dict,1967,1,1,Middle
+1384,Sierra Leone,Africa,Non-democracy,Civilian Dict,1968,17,1,Middle
+1385,Sierra Leone,Africa,Non-democracy,Military Dict,1985,7,1,Middle
+1386,Sierra Leone,Africa,Non-democracy,Military Dict,1992,4,1,Late
+1387,Sierra Leone,Africa,Democracy,Presidential Dem,1996,1,1,Late
+1388,Sierra Leone,Africa,Non-democracy,Military Dict,1997,1,1,Late
+1389,Sierra Leone,Africa,Democracy,Presidential Dem,1998,9,1,Late
+1390,Sierra Leone,Africa,Democracy,Presidential Dem,2007,2,0,Late
+1391,Singapore,Asia,Non-democracy,Civilian Dict,1965,25,1,Early
+1392,Singapore,Asia,Non-democracy,Civilian Dict,1990,14,1,Late
+1393,Singapore,Asia,Non-democracy,Military Dict,2004,5,0,Late
+1394,Slovakia,Europe,Democracy,Parliamentary Dem,1993,5,1,Late
+1395,Slovakia,Europe,Democracy,Parliamentary Dem,1998,1,1,Late
+1396,Slovakia,Europe,Democracy,Mixed Dem,1999,7,1,Late
+1397,Slovakia,Europe,Democracy,Mixed Dem,2006,3,0,Late
+1398,Slovenia,Europe,Democracy,Mixed Dem,1991,1,1,Late
+1399,Slovenia,Europe,Democracy,Mixed Dem,1992,10,1,Late
+1400,Slovenia,Europe,Democracy,Mixed Dem,2002,1,1,Late
+1401,Slovenia,Europe,Democracy,Parliamentary Dem,2003,1,1,Late
+1402,Slovenia,Europe,Democracy,Parliamentary Dem,2004,4,1,Late
+1403,Slovenia,Europe,Democracy,Parliamentary Dem,2008,1,0,Late
+1404,Solomon Islands,Oceania,Democracy,Parliamentary Dem,1978,3,1,Middle
+1405,Solomon Islands,Oceania,Democracy,Parliamentary Dem,1981,3,1,Middle
+1406,Solomon Islands,Oceania,Democracy,Parliamentary Dem,1984,2,1,Middle
+1407,Solomon Islands,Oceania,Democracy,Parliamentary Dem,1986,3,1,Late
+1408,Solomon Islands,Oceania,Democracy,Parliamentary Dem,1989,4,1,Late
+1409,Solomon Islands,Oceania,Democracy,Parliamentary Dem,1993,4,1,Late
+1410,Solomon Islands,Oceania,Democracy,Parliamentary Dem,1997,3,1,Late
+1411,Solomon Islands,Oceania,Democracy,Parliamentary Dem,2000,1,1,Late
+1412,Solomon Islands,Oceania,Democracy,Parliamentary Dem,2001,5,1,Late
+1413,Solomon Islands,Oceania,Democracy,Parliamentary Dem,2006,1,1,Late
+1414,Solomon Islands,Oceania,Democracy,Parliamentary Dem,2007,2,0,Late
+1415,Somalia,Africa,Democracy,Parliamentary Dem,1960,4,0,Early
+1416,Somalia,Africa,Democracy,Parliamentary Dem,1964,3,1,Early
+1417,Somalia,Africa,Democracy,Parliamentary Dem,1967,2,1,Middle
+1418,Somalia,Africa,Non-democracy,Military Dict,1969,22,1,Middle
+1419,Somalia,Africa,Non-democracy,Civilian Dict,1991,6,1,Late
+1420,Somalia,Africa,Non-democracy,Civilian Dict,1997,3,1,Late
+1421,Somalia,Africa,Non-democracy,Civilian Dict,2000,4,1,Late
+1422,Somalia,Africa,Non-democracy,Civilian Dict,2004,3,1,Late
+1423,Somalia,Africa,Non-democracy,Civilian Dict,2007,2,0,Late
+1424,South Africa,Africa,Non-democracy,Civilian Dict,1946,2,1,Early
+1425,South Africa,Africa,Non-democracy,Civilian Dict,1948,6,1,Early
+1426,South Africa,Africa,Non-democracy,Civilian Dict,1954,4,0,Early
+1427,South Africa,Africa,Non-democracy,Civilian Dict,1958,8,0,Early
+1428,South Africa,Africa,Non-democracy,Civilian Dict,1966,12,1,Middle
+1429,South Africa,Africa,Non-democracy,Civilian Dict,1978,11,1,Middle
+1430,South Africa,Africa,Non-democracy,Civilian Dict,1989,5,1,Late
+1431,South Africa,Africa,Non-democracy,Civilian Dict,1994,5,1,Late
+1432,South Africa,Africa,Non-democracy,Civilian Dict,1999,9,1,Late
+1433,South Africa,Africa,Non-democracy,Civilian Dict,2008,1,0,Late
+1434,South Korea,Asia,Non-democracy,Civilian Dict,1948,12,1,Early
+1435,South Korea,Asia,Democracy,Parliamentary Dem,1960,1,1,Early
+1436,South Korea,Asia,Non-democracy,Military Dict,1961,18,0,Early
+1437,South Korea,Asia,Non-democracy,Military Dict,1979,9,1,Middle
+1438,South Korea,Asia,Democracy,Presidential Dem,1988,5,1,Late
+1439,South Korea,Asia,Democracy,Presidential Dem,1993,5,1,Late
+1440,South Korea,Asia,Democracy,Presidential Dem,1998,5,1,Late
+1441,South Korea,Asia,Democracy,Presidential Dem,2003,5,1,Late
+1442,South Korea,Asia,Democracy,Presidential Dem,2008,1,1,Late
+1443,Spain,Europe,Non-democracy,Military Dict,1946,29,0,Early
+1444,Spain,Europe,Non-democracy,Civilian Dict,1975,1,1,Middle
+1445,Spain,Europe,Non-democracy,Civilian Dict,1976,1,1,Middle
+1446,Spain,Europe,Democracy,Parliamentary Dem,1977,4,1,Middle
+1447,Spain,Europe,Democracy,Parliamentary Dem,1981,1,1,Middle
+1448,Spain,Europe,Democracy,Parliamentary Dem,1982,14,1,Middle
+1449,Spain,Europe,Democracy,Parliamentary Dem,1996,8,1,Late
+1450,Spain,Europe,Democracy,Parliamentary Dem,2004,5,0,Late
+1451,Sri Lanka,Asia,Democracy,Parliamentary Dem,1948,4,0,Early
+1452,Sri Lanka,Asia,Democracy,Parliamentary Dem,1952,1,1,Early
+1453,Sri Lanka,Asia,Democracy,Parliamentary Dem,1953,3,1,Early
+1454,Sri Lanka,Asia,Democracy,Parliamentary Dem,1956,3,0,Early
+1455,Sri Lanka,Asia,Democracy,Parliamentary Dem,1959,1,1,Early
+1456,Sri Lanka,Asia,Democracy,Parliamentary Dem,1960,5,1,Early
+1457,Sri Lanka,Asia,Democracy,Parliamentary Dem,1965,5,1,Early
+1458,Sri Lanka,Asia,Democracy,Parliamentary Dem,1970,7,1,Middle
+1459,Sri Lanka,Asia,Non-democracy,Civilian Dict,1977,12,1,Middle
+1460,Sri Lanka,Asia,Democracy,Presidential Dem,1989,4,1,Late
+1461,Sri Lanka,Asia,Democracy,Presidential Dem,1993,1,1,Late
+1462,Sri Lanka,Asia,Democracy,Presidential Dem,1994,6,0,Late
+1463,Sri Lanka,Asia,Democracy,Presidential Dem,2000,1,1,Late
+1464,Sri Lanka,Asia,Democracy,Presidential Dem,2001,3,1,Late
+1465,Sri Lanka,Asia,Democracy,Presidential Dem,2004,1,1,Late
+1466,Sri Lanka,Asia,Democracy,Presidential Dem,2005,4,0,Late
+1467,St. Kitts and Nevis,Americas,Democracy,Parliamentary Dem,1983,12,1,Middle
+1468,St. Kitts and Nevis,Americas,Democracy,Parliamentary Dem,1995,14,0,Late
+1469,St. Lucia,Americas,Democracy,Parliamentary Dem,1979,2,1,Middle
+1470,St. Lucia,Americas,Democracy,Parliamentary Dem,1981,1,1,Middle
+1471,St. Lucia,Americas,Democracy,Parliamentary Dem,1982,14,1,Middle
+1472,St. Lucia,Americas,Democracy,Parliamentary Dem,1996,1,1,Late
+1473,St. Lucia,Americas,Democracy,Parliamentary Dem,1997,9,1,Late
+1474,St. Lucia,Americas,Democracy,Parliamentary Dem,2006,1,1,Late
+1475,St. Lucia,Americas,Democracy,Parliamentary Dem,2007,2,0,Late
+1476,St. Vincent and the Grenadines,Americas,Democracy,Parliamentary Dem,1979,5,1,Middle
+1477,St. Vincent and the Grenadines,Americas,Democracy,Parliamentary Dem,1984,16,1,Middle
+1478,St. Vincent and the Grenadines,Americas,Democracy,Parliamentary Dem,2000,1,1,Late
+1479,St. Vincent and the Grenadines,Americas,Democracy,Parliamentary Dem,2001,8,0,Late
+1480,Sudan,Africa,Democracy,Parliamentary Dem,1956,2,1,Early
+1481,Sudan,Africa,Non-democracy,Military Dict,1958,6,1,Early
+1482,Sudan,Africa,Non-democracy,Civilian Dict,1964,1,1,Early
+1483,Sudan,Africa,Democracy,Parliamentary Dem,1965,1,1,Early
+1484,Sudan,Africa,Democracy,Parliamentary Dem,1966,1,1,Middle
+1485,Sudan,Africa,Democracy,Parliamentary Dem,1967,2,1,Middle
+1486,Sudan,Africa,Non-democracy,Military Dict,1969,16,1,Middle
+1487,Sudan,Africa,Non-democracy,Military Dict,1985,1,1,Middle
+1488,Sudan,Africa,Democracy,Parliamentary Dem,1986,3,1,Late
+1489,Sudan,Africa,Non-democracy,Military Dict,1989,20,0,Late
+1490,Suriname,Americas,Democracy,Parliamentary Dem,1975,5,1,Middle
+1491,Suriname,Americas,Non-democracy,Military Dict,1980,8,1,Middle
+1492,Suriname,Americas,Democracy,Presidential Dem,1988,2,1,Late
+1493,Suriname,Americas,Non-democracy,Military Dict,1990,1,1,Late
+1494,Suriname,Americas,Democracy,Presidential Dem,1991,5,1,Late
+1495,Suriname,Americas,Democracy,Presidential Dem,1996,4,1,Late
+1496,Suriname,Americas,Democracy,Presidential Dem,2000,9,0,Late
+1497,Swaziland,Africa,Non-democracy,Monarchy,1968,14,0,Middle
+1498,Swaziland,Africa,Non-democracy,Monarchy,1982,1,1,Middle
+1499,Swaziland,Africa,Non-democracy,Monarchy,1983,3,1,Middle
+1500,Swaziland,Africa,Non-democracy,Monarchy,1986,23,0,Late
+1501,Sweden,Europe,Democracy,Parliamentary Dem,1946,23,1,Early
+1502,Sweden,Europe,Democracy,Parliamentary Dem,1969,7,1,Middle
+1503,Sweden,Europe,Democracy,Parliamentary Dem,1976,2,1,Middle
+1504,Sweden,Europe,Democracy,Parliamentary Dem,1978,1,1,Middle
+1505,Sweden,Europe,Democracy,Parliamentary Dem,1979,3,1,Middle
+1506,Sweden,Europe,Democracy,Parliamentary Dem,1982,4,0,Middle
+1507,Sweden,Europe,Democracy,Parliamentary Dem,1986,5,1,Late
+1508,Sweden,Europe,Democracy,Parliamentary Dem,1991,3,1,Late
+1509,Sweden,Europe,Democracy,Parliamentary Dem,1994,2,1,Late
+1510,Sweden,Europe,Democracy,Parliamentary Dem,1996,10,1,Late
+1511,Sweden,Europe,Democracy,Parliamentary Dem,2006,3,0,Late
+1512,Switzerland,Europe,Democracy,Presidential Dem,1946,1,1,Early
+1513,Switzerland,Europe,Democracy,Presidential Dem,1947,1,1,Early
+1514,Switzerland,Europe,Democracy,Presidential Dem,1948,1,1,Early
+1515,Switzerland,Europe,Democracy,Presidential Dem,1949,1,1,Early
+1516,Switzerland,Europe,Democracy,Presidential Dem,1950,1,1,Early
+1517,Switzerland,Europe,Democracy,Presidential Dem,1951,1,1,Early
+1518,Switzerland,Europe,Democracy,Presidential Dem,1952,1,1,Early
+1519,Switzerland,Europe,Democracy,Presidential Dem,1953,1,1,Early
+1520,Switzerland,Europe,Democracy,Presidential Dem,1954,1,1,Early
+1521,Switzerland,Europe,Democracy,Presidential Dem,1955,1,1,Early
+1522,Switzerland,Europe,Democracy,Presidential Dem,1956,1,1,Early
+1523,Switzerland,Europe,Democracy,Presidential Dem,1957,1,1,Early
+1524,Switzerland,Europe,Democracy,Presidential Dem,1958,1,1,Early
+1525,Switzerland,Europe,Democracy,Presidential Dem,1959,1,1,Early
+1526,Switzerland,Europe,Democracy,Presidential Dem,1960,1,1,Early
+1527,Switzerland,Europe,Democracy,Presidential Dem,1961,1,1,Early
+1528,Switzerland,Europe,Democracy,Presidential Dem,1962,1,1,Early
+1529,Switzerland,Europe,Democracy,Presidential Dem,1963,1,1,Early
+1530,Switzerland,Europe,Democracy,Presidential Dem,1964,1,1,Early
+1531,Switzerland,Europe,Democracy,Presidential Dem,1965,1,1,Early
+1532,Switzerland,Europe,Democracy,Presidential Dem,1966,1,1,Middle
+1533,Switzerland,Europe,Democracy,Presidential Dem,1967,1,1,Middle
+1534,Switzerland,Europe,Democracy,Presidential Dem,1968,1,1,Middle
+1535,Switzerland,Europe,Democracy,Presidential Dem,1969,1,1,Middle
+1536,Switzerland,Europe,Democracy,Presidential Dem,1970,1,1,Middle
+1537,Switzerland,Europe,Democracy,Presidential Dem,1971,1,1,Middle
+1538,Switzerland,Europe,Democracy,Presidential Dem,1972,1,1,Middle
+1539,Switzerland,Europe,Democracy,Presidential Dem,1973,1,1,Middle
+1540,Switzerland,Europe,Democracy,Presidential Dem,1974,1,1,Middle
+1541,Switzerland,Europe,Democracy,Presidential Dem,1975,1,1,Middle
+1542,Switzerland,Europe,Democracy,Presidential Dem,1976,1,1,Middle
+1543,Switzerland,Europe,Democracy,Presidential Dem,1977,1,1,Middle
+1544,Switzerland,Europe,Democracy,Presidential Dem,1978,1,1,Middle
+1545,Switzerland,Europe,Democracy,Presidential Dem,1979,1,1,Middle
+1546,Switzerland,Europe,Democracy,Presidential Dem,1980,1,1,Middle
+1547,Switzerland,Europe,Democracy,Presidential Dem,1981,1,1,Middle
+1548,Switzerland,Europe,Democracy,Presidential Dem,1982,1,1,Middle
+1549,Switzerland,Europe,Democracy,Presidential Dem,1983,1,1,Middle
+1550,Switzerland,Europe,Democracy,Presidential Dem,1984,1,1,Middle
+1551,Switzerland,Europe,Democracy,Presidential Dem,1985,1,1,Middle
+1552,Switzerland,Europe,Democracy,Presidential Dem,1986,1,1,Late
+1553,Switzerland,Europe,Democracy,Presidential Dem,1987,1,1,Late
+1554,Switzerland,Europe,Democracy,Presidential Dem,1988,1,1,Late
+1555,Switzerland,Europe,Democracy,Presidential Dem,1989,1,1,Late
+1556,Switzerland,Europe,Democracy,Presidential Dem,1990,1,1,Late
+1557,Switzerland,Europe,Democracy,Presidential Dem,1991,1,1,Late
+1558,Switzerland,Europe,Democracy,Presidential Dem,1992,1,1,Late
+1559,Switzerland,Europe,Democracy,Presidential Dem,1993,1,1,Late
+1560,Switzerland,Europe,Democracy,Presidential Dem,1994,1,1,Late
+1561,Switzerland,Europe,Democracy,Presidential Dem,1995,1,1,Late
+1562,Switzerland,Europe,Democracy,Presidential Dem,1996,1,1,Late
+1563,Switzerland,Europe,Democracy,Presidential Dem,1997,1,1,Late
+1564,Switzerland,Europe,Democracy,Presidential Dem,1998,1,1,Late
+1565,Switzerland,Europe,Democracy,Presidential Dem,1999,1,1,Late
+1566,Switzerland,Europe,Democracy,Presidential Dem,2000,1,1,Late
+1567,Switzerland,Europe,Democracy,Presidential Dem,2001,1,1,Late
+1568,Switzerland,Europe,Democracy,Presidential Dem,2002,1,1,Late
+1569,Switzerland,Europe,Democracy,Presidential Dem,2003,1,1,Late
+1570,Switzerland,Europe,Democracy,Presidential Dem,2004,1,1,Late
+1571,Switzerland,Europe,Democracy,Presidential Dem,2005,1,1,Late
+1572,Switzerland,Europe,Democracy,Presidential Dem,2006,1,1,Late
+1573,Switzerland,Europe,Democracy,Presidential Dem,2007,1,1,Late
+1574,Switzerland,Europe,Democracy,Presidential Dem,2008,1,0,Late
+1575,Syria,Asia,Non-democracy,Civilian Dict,1946,3,1,Early
+1576,Syria,Asia,Non-democracy,Military Dict,1949,5,1,Early
+1577,Syria,Asia,Non-democracy,Military Dict,1954,1,1,Early
+1578,Syria,Asia,Non-democracy,Civilian Dict,1955,6,1,Early
+1579,Syria,Asia,Non-democracy,Civilian Dict,1961,2,1,Early
+1580,Syria,Asia,Non-democracy,Military Dict,1963,3,1,Early
+1581,Syria,Asia,Non-democracy,Military Dict,1966,4,1,Middle
+1582,Syria,Asia,Non-democracy,Military Dict,1970,30,0,Middle
+1583,Syria,Asia,Non-democracy,Military Dict,2000,9,0,Late
+1584,Taiwan,Asia,Non-democracy,Military Dict,1949,26,0,Early
+1585,Taiwan,Asia,Non-democracy,Civilian Dict,1975,3,1,Middle
+1586,Taiwan,Asia,Non-democracy,Civilian Dict,1978,10,0,Middle
+1587,Taiwan,Asia,Non-democracy,Civilian Dict,1988,8,1,Late
+1588,Taiwan,Asia,Democracy,Mixed Dem,1996,1,1,Late
+1589,Taiwan,Asia,Democracy,Mixed Dem,1997,3,1,Late
+1590,Taiwan,Asia,Democracy,Mixed Dem,2000,2,1,Late
+1591,Taiwan,Asia,Democracy,Mixed Dem,2002,3,1,Late
+1592,Taiwan,Asia,Democracy,Mixed Dem,2005,1,1,Late
+1593,Taiwan,Asia,Democracy,Mixed Dem,2006,1,1,Late
+1594,Taiwan,Asia,Democracy,Mixed Dem,2007,1,1,Late
+1595,Taiwan,Asia,Democracy,Mixed Dem,2008,1,0,Late
+1596,Tajikistan,Asia,Non-democracy,Civilian Dict,1991,1,1,Late
+1597,Tajikistan,Asia,Non-democracy,Civilian Dict,1992,17,0,Late
+1598,Tanzania,Africa,Non-democracy,Civilian Dict,1961,24,1,Early
+1599,Tanzania,Africa,Non-democracy,Civilian Dict,1985,10,1,Middle
+1600,Tanzania,Africa,Non-democracy,Civilian Dict,1995,10,1,Late
+1601,Tanzania,Africa,Non-democracy,Military Dict,2005,4,0,Late
+1602,Thailand,Asia,Non-democracy,Military Dict,1946,1,1,Early
+1603,Thailand,Asia,Non-democracy,Military Dict,1947,10,1,Early
+1604,Thailand,Asia,Non-democracy,Military Dict,1957,1,1,Early
+1605,Thailand,Asia,Non-democracy,Military Dict,1958,5,0,Early
+1606,Thailand,Asia,Non-democracy,Military Dict,1963,10,1,Early
+1607,Thailand,Asia,Non-democracy,Civilian Dict,1973,2,1,Middle
+1608,Thailand,Asia,Democracy,Parliamentary Dem,1975,1,1,Middle
+1609,Thailand,Asia,Non-democracy,Military Dict,1976,1,1,Middle
+1610,Thailand,Asia,Non-democracy,Military Dict,1977,2,1,Middle
+1611,Thailand,Asia,Democracy,Parliamentary Dem,1979,1,1,Middle
+1612,Thailand,Asia,Democracy,Parliamentary Dem,1980,8,1,Middle
+1613,Thailand,Asia,Democracy,Parliamentary Dem,1988,3,1,Late
+1614,Thailand,Asia,Non-democracy,Military Dict,1991,1,1,Late
+1615,Thailand,Asia,Democracy,Parliamentary Dem,1992,3,1,Late
+1616,Thailand,Asia,Democracy,Parliamentary Dem,1995,1,1,Late
+1617,Thailand,Asia,Democracy,Parliamentary Dem,1996,1,1,Late
+1618,Thailand,Asia,Democracy,Parliamentary Dem,1997,4,1,Late
+1619,Thailand,Asia,Democracy,Parliamentary Dem,2001,5,1,Late
+1620,Thailand,Asia,Non-democracy,Military Dict,2006,2,1,Late
+1621,Thailand,Asia,Democracy,Parliamentary Dem,2008,1,0,Late
+1622,Togo,Africa,Non-democracy,Civilian Dict,1960,3,0,Early
+1623,Togo,Africa,Non-democracy,Civilian Dict,1963,4,1,Early
+1624,Togo,Africa,Non-democracy,Military Dict,1967,38,0,Middle
+1625,Togo,Africa,Non-democracy,Civilian Dict,2005,4,0,Late
+1626,Tonga,Oceania,Non-democracy,Monarchy,1970,36,0,Middle
+1627,Tonga,Oceania,Non-democracy,Monarchy,2006,3,0,Late
+1628,Trinidad and Tobago,Americas,Democracy,Parliamentary Dem,1962,19,0,Early
+1629,Trinidad and Tobago,Americas,Democracy,Parliamentary Dem,1981,5,1,Middle
+1630,Trinidad and Tobago,Americas,Democracy,Parliamentary Dem,1986,5,1,Late
+1631,Trinidad and Tobago,Americas,Democracy,Parliamentary Dem,1991,4,1,Late
+1632,Trinidad and Tobago,Americas,Democracy,Parliamentary Dem,1995,6,1,Late
+1633,Trinidad and Tobago,Americas,Democracy,Parliamentary Dem,2001,8,0,Late
+1634,Tunisia,Africa,Non-democracy,Civilian Dict,1956,31,1,Early
+1635,Tunisia,Africa,Non-democracy,Military Dict,1987,22,0,Late
+1636,Turkey,Asia,Non-democracy,Military Dict,1946,4,1,Early
+1637,Turkey,Asia,Non-democracy,Civilian Dict,1950,10,1,Early
+1638,Turkey,Asia,Non-democracy,Military Dict,1960,1,1,Early
+1639,Turkey,Asia,Democracy,Parliamentary Dem,1961,4,1,Early
+1640,Turkey,Asia,Democracy,Parliamentary Dem,1965,6,1,Early
+1641,Turkey,Asia,Democracy,Parliamentary Dem,1971,1,1,Middle
+1642,Turkey,Asia,Democracy,Parliamentary Dem,1972,1,1,Middle
+1643,Turkey,Asia,Democracy,Parliamentary Dem,1973,1,1,Middle
+1644,Turkey,Asia,Democracy,Parliamentary Dem,1974,1,1,Middle
+1645,Turkey,Asia,Democracy,Parliamentary Dem,1975,3,1,Middle
+1646,Turkey,Asia,Democracy,Parliamentary Dem,1978,1,1,Middle
+1647,Turkey,Asia,Democracy,Parliamentary Dem,1979,1,1,Middle
+1648,Turkey,Asia,Non-democracy,Military Dict,1980,3,1,Middle
+1649,Turkey,Asia,Democracy,Parliamentary Dem,1983,6,1,Middle
+1650,Turkey,Asia,Democracy,Parliamentary Dem,1989,2,1,Late
+1651,Turkey,Asia,Democracy,Parliamentary Dem,1991,2,1,Late
+1652,Turkey,Asia,Democracy,Parliamentary Dem,1993,3,1,Late
+1653,Turkey,Asia,Democracy,Parliamentary Dem,1996,1,1,Late
+1654,Turkey,Asia,Democracy,Parliamentary Dem,1997,2,1,Late
+1655,Turkey,Asia,Democracy,Parliamentary Dem,1999,3,1,Late
+1656,Turkey,Asia,Democracy,Parliamentary Dem,2002,1,1,Late
+1657,Turkey,Asia,Democracy,Parliamentary Dem,2003,6,0,Late
+1658,Turkmenistan,Asia,Non-democracy,Civilian Dict,1991,15,0,Late
+1659,Turkmenistan,Asia,Non-democracy,Civilian Dict,2006,3,0,Late
+1660,Tuvalu,Oceania,Democracy,Parliamentary Dem,1978,3,1,Middle
+1661,Tuvalu,Oceania,Democracy,Parliamentary Dem,1981,8,1,Middle
+1662,Tuvalu,Oceania,Democracy,Parliamentary Dem,1989,4,1,Late
+1663,Tuvalu,Oceania,Democracy,Parliamentary Dem,1993,3,1,Late
+1664,Tuvalu,Oceania,Democracy,Parliamentary Dem,1996,3,1,Late
+1665,Tuvalu,Oceania,Democracy,Parliamentary Dem,1999,1,1,Late
+1666,Tuvalu,Oceania,Democracy,Parliamentary Dem,2000,1,1,Late
+1667,Tuvalu,Oceania,Democracy,Parliamentary Dem,2001,1,1,Late
+1668,Tuvalu,Oceania,Democracy,Parliamentary Dem,2002,2,1,Late
+1669,Tuvalu,Oceania,Democracy,Parliamentary Dem,2004,2,1,Late
+1670,Tuvalu,Oceania,Democracy,Parliamentary Dem,2006,3,0,Late
+1671,U.S.S.R.,Europe,Non-democracy,Civilian Dict,1946,7,0,Early
+1672,U.S.S.R.,Europe,Non-democracy,Civilian Dict,1953,11,1,Early
+1673,U.S.S.R.,Europe,Non-democracy,Civilian Dict,1964,18,0,Early
+1674,U.S.S.R.,Europe,Non-democracy,Civilian Dict,1982,2,0,Middle
+1675,U.S.S.R.,Europe,Non-democracy,Civilian Dict,1984,1,0,Middle
+1676,U.S.S.R.,Europe,Non-democracy,Civilian Dict,1985,6,0,Middle
+1677,Uganda,Africa,Non-democracy,Civilian Dict,1962,1,1,Early
+1678,Uganda,Africa,Non-democracy,Civilian Dict,1963,3,1,Early
+1679,Uganda,Africa,Non-democracy,Civilian Dict,1966,5,1,Middle
+1680,Uganda,Africa,Non-democracy,Military Dict,1971,8,1,Middle
+1681,Uganda,Africa,Non-democracy,Civilian Dict,1979,1,1,Middle
+1682,Uganda,Africa,Democracy,Presidential Dem,1980,5,1,Middle
+1683,Uganda,Africa,Non-democracy,Military Dict,1985,1,1,Middle
+1684,Uganda,Africa,Non-democracy,Civilian Dict,1986,23,0,Late
+1685,Ukraine,Europe,Democracy,Mixed Dem,1991,1,1,Late
+1686,Ukraine,Europe,Democracy,Mixed Dem,1992,1,1,Late
+1687,Ukraine,Europe,Democracy,Mixed Dem,1993,1,1,Late
+1688,Ukraine,Europe,Democracy,Mixed Dem,1994,1,1,Late
+1689,Ukraine,Europe,Democracy,Mixed Dem,1995,1,1,Late
+1690,Ukraine,Europe,Democracy,Mixed Dem,1996,1,1,Late
+1691,Ukraine,Europe,Democracy,Mixed Dem,1997,2,1,Late
+1692,Ukraine,Europe,Democracy,Mixed Dem,1999,2,1,Late
+1693,Ukraine,Europe,Democracy,Mixed Dem,2001,1,1,Late
+1694,Ukraine,Europe,Democracy,Mixed Dem,2002,3,1,Late
+1695,Ukraine,Europe,Democracy,Mixed Dem,2005,1,1,Late
+1696,Ukraine,Europe,Democracy,Mixed Dem,2006,1,1,Late
+1697,Ukraine,Europe,Democracy,Mixed Dem,2007,2,0,Late
+1698,United Arab Emirates,Asia,Non-democracy,Monarchy,1971,33,1,Middle
+1699,United Arab Emirates,Asia,Non-democracy,Monarchy,2004,5,0,Late
+1700,United Kingdom,Europe,Democracy,Parliamentary Dem,1946,5,1,Early
+1701,United Kingdom,Europe,Democracy,Parliamentary Dem,1951,4,1,Early
+1702,United Kingdom,Europe,Democracy,Parliamentary Dem,1955,2,1,Early
+1703,United Kingdom,Europe,Democracy,Parliamentary Dem,1957,6,1,Early
+1704,United Kingdom,Europe,Democracy,Parliamentary Dem,1963,1,1,Early
+1705,United Kingdom,Europe,Democracy,Parliamentary Dem,1964,6,1,Early
+1706,United Kingdom,Europe,Democracy,Parliamentary Dem,1970,4,1,Middle
+1707,United Kingdom,Europe,Democracy,Parliamentary Dem,1974,2,1,Middle
+1708,United Kingdom,Europe,Democracy,Parliamentary Dem,1976,3,1,Middle
+1709,United Kingdom,Europe,Democracy,Parliamentary Dem,1979,11,1,Middle
+1710,United Kingdom,Europe,Democracy,Parliamentary Dem,1990,7,1,Late
+1711,United Kingdom,Europe,Democracy,Parliamentary Dem,1997,10,1,Late
+1712,United Kingdom,Europe,Democracy,Parliamentary Dem,2007,2,0,Late
+1713,United States of America,Americas,Democracy,Presidential Dem,1946,7,1,Early
+1714,United States of America,Americas,Democracy,Presidential Dem,1953,8,1,Early
+1715,United States of America,Americas,Democracy,Presidential Dem,1961,2,0,Early
+1716,United States of America,Americas,Democracy,Presidential Dem,1963,6,1,Early
+1717,United States of America,Americas,Democracy,Presidential Dem,1969,5,1,Middle
+1718,United States of America,Americas,Democracy,Presidential Dem,1974,3,1,Middle
+1719,United States of America,Americas,Democracy,Presidential Dem,1977,4,1,Middle
+1720,United States of America,Americas,Democracy,Presidential Dem,1981,8,1,Middle
+1721,United States of America,Americas,Democracy,Presidential Dem,1989,4,1,Late
+1722,United States of America,Americas,Democracy,Presidential Dem,1993,8,1,Late
+1723,United States of America,Americas,Democracy,Presidential Dem,2001,8,0,Late
+1724,Uruguay,Americas,Democracy,Presidential Dem,1946,1,1,Early
+1725,Uruguay,Americas,Democracy,Presidential Dem,1947,4,1,Early
+1726,Uruguay,Americas,Democracy,Presidential Dem,1951,4,1,Early
+1727,Uruguay,Americas,Democracy,Presidential Dem,1955,1,1,Early
+1728,Uruguay,Americas,Democracy,Presidential Dem,1956,1,1,Early
+1729,Uruguay,Americas,Democracy,Presidential Dem,1957,1,1,Early
+1730,Uruguay,Americas,Democracy,Presidential Dem,1958,1,1,Early
+1731,Uruguay,Americas,Democracy,Presidential Dem,1959,1,1,Early
+1732,Uruguay,Americas,Democracy,Presidential Dem,1960,1,1,Early
+1733,Uruguay,Americas,Democracy,Presidential Dem,1961,1,1,Early
+1734,Uruguay,Americas,Democracy,Presidential Dem,1962,1,1,Early
+1735,Uruguay,Americas,Democracy,Presidential Dem,1963,1,1,Early
+1736,Uruguay,Americas,Democracy,Presidential Dem,1964,1,1,Early
+1737,Uruguay,Americas,Democracy,Presidential Dem,1965,1,1,Early
+1738,Uruguay,Americas,Democracy,Presidential Dem,1966,1,1,Middle
+1739,Uruguay,Americas,Democracy,Presidential Dem,1967,5,1,Middle
+1740,Uruguay,Americas,Democracy,Presidential Dem,1972,1,1,Middle
+1741,Uruguay,Americas,Non-democracy,Military Dict,1973,8,1,Middle
+1742,Uruguay,Americas,Non-democracy,Military Dict,1981,4,1,Middle
+1743,Uruguay,Americas,Democracy,Presidential Dem,1985,5,1,Middle
+1744,Uruguay,Americas,Democracy,Presidential Dem,1990,5,1,Late
+1745,Uruguay,Americas,Democracy,Presidential Dem,1995,5,1,Late
+1746,Uruguay,Americas,Democracy,Presidential Dem,2000,5,1,Late
+1747,Uruguay,Americas,Democracy,Presidential Dem,2005,4,0,Late
+1748,Uzbekistan,Asia,Non-democracy,Civilian Dict,1991,18,0,Late
+1749,Vanuatu,Oceania,Democracy,Parliamentary Dem,1980,11,1,Middle
+1750,Vanuatu,Oceania,Democracy,Parliamentary Dem,1991,4,1,Late
+1751,Vanuatu,Oceania,Democracy,Parliamentary Dem,1995,3,1,Late
+1752,Vanuatu,Oceania,Democracy,Parliamentary Dem,1998,1,1,Late
+1753,Vanuatu,Oceania,Democracy,Parliamentary Dem,1999,2,1,Late
+1754,Vanuatu,Oceania,Democracy,Parliamentary Dem,2001,3,1,Late
+1755,Vanuatu,Oceania,Democracy,Parliamentary Dem,2004,4,1,Late
+1756,Vanuatu,Oceania,Democracy,Parliamentary Dem,2008,1,0,Late
+1757,Venezuela,Americas,Democracy,Presidential Dem,1946,2,1,Early
+1758,Venezuela,Americas,Non-democracy,Military Dict,1948,2,0,Early
+1759,Venezuela,Americas,Non-democracy,Military Dict,1950,8,1,Early
+1760,Venezuela,Americas,Non-democracy,Military Dict,1958,1,1,Early
+1761,Venezuela,Americas,Democracy,Presidential Dem,1959,5,1,Early
+1762,Venezuela,Americas,Democracy,Presidential Dem,1964,5,1,Early
+1763,Venezuela,Americas,Democracy,Presidential Dem,1969,5,1,Middle
+1764,Venezuela,Americas,Democracy,Presidential Dem,1974,5,1,Middle
+1765,Venezuela,Americas,Democracy,Presidential Dem,1979,5,1,Middle
+1766,Venezuela,Americas,Democracy,Presidential Dem,1984,5,1,Middle
+1767,Venezuela,Americas,Democracy,Presidential Dem,1989,4,1,Late
+1768,Venezuela,Americas,Democracy,Presidential Dem,1993,1,1,Late
+1769,Venezuela,Americas,Democracy,Presidential Dem,1994,5,1,Late
+1770,Venezuela,Americas,Democracy,Presidential Dem,1999,10,0,Late
+1771,Viet Nam,Asia,Non-democracy,Civilian Dict,1976,10,0,Middle
+1772,Viet Nam,Asia,Non-democracy,Civilian Dict,1986,5,1,Late
+1773,Viet Nam,Asia,Non-democracy,Civilian Dict,1991,6,1,Late
+1774,Viet Nam,Asia,Non-democracy,Military Dict,1997,4,1,Late
+1775,Viet Nam,Asia,Non-democracy,Civilian Dict,2001,8,0,Late
+1776,Yemen,Asia,Non-democracy,Military Dict,1990,19,0,Late
+1777,Yemen Arab Republic,Asia,Non-democracy,Monarchy,1946,2,0,Early
+1778,Yemen Arab Republic,Asia,Non-democracy,Monarchy,1948,14,0,Early
+1779,Yemen Arab Republic,Asia,Non-democracy,Civilian Dict,1962,5,1,Early
+1780,Yemen Arab Republic,Asia,Non-democracy,Civilian Dict,1967,7,1,Middle
+1781,Yemen Arab Republic,Asia,Non-democracy,Military Dict,1974,3,0,Middle
+1782,Yemen Arab Republic,Asia,Non-democracy,Military Dict,1977,1,0,Middle
+1783,Yemen Arab Republic,Asia,Non-democracy,Military Dict,1978,12,0,Middle
+1784,Yemen PDR (South),Asia,Non-democracy,Civilian Dict,1967,2,1,Middle
+1785,Yemen PDR (South),Asia,Non-democracy,Civilian Dict,1969,9,0,Middle
+1786,Yemen PDR (South),Asia,Non-democracy,Civilian Dict,1978,2,1,Middle
+1787,Yemen PDR (South),Asia,Non-democracy,Civilian Dict,1980,6,1,Middle
+1788,Yemen PDR (South),Asia,Non-democracy,Civilian Dict,1986,4,0,Late
+1789,Yugoslavia,Europe,Non-democracy,Civilian Dict,1946,34,0,Early
+1790,Yugoslavia,Europe,Non-democracy,Civilian Dict,1980,1,1,Middle
+1791,Yugoslavia,Europe,Non-democracy,Civilian Dict,1981,1,1,Middle
+1792,Yugoslavia,Europe,Non-democracy,Civilian Dict,1982,1,1,Middle
+1793,Yugoslavia,Europe,Non-democracy,Civilian Dict,1983,1,1,Middle
+1794,Yugoslavia,Europe,Non-democracy,Civilian Dict,1984,1,1,Middle
+1795,Yugoslavia,Europe,Non-democracy,Civilian Dict,1985,1,1,Middle
+1796,Yugoslavia,Europe,Non-democracy,Civilian Dict,1986,1,1,Late
+1797,Yugoslavia,Europe,Non-democracy,Civilian Dict,1987,1,1,Late
+1798,Yugoslavia,Europe,Non-democracy,Civilian Dict,1988,1,1,Late
+1799,Yugoslavia,Europe,Non-democracy,Civilian Dict,1989,1,1,Late
+1800,Yugoslavia,Europe,Non-democracy,Civilian Dict,1990,1,0,Late
+1801,Zambia,Africa,Non-democracy,Civilian Dict,1964,27,1,Early
+1802,Zambia,Africa,Non-democracy,Civilian Dict,1991,11,1,Late
+1803,Zambia,Africa,Non-democracy,Civilian Dict,2002,6,1,Late
+1804,Zambia,Africa,Non-democracy,Civilian Dict,2008,1,0,Late
+1805,Zimbabwe,Africa,Non-democracy,Civilian Dict,1965,14,1,Early
+1806,Zimbabwe,Africa,Non-democracy,Civilian Dict,1979,1,1,Middle
+1807,Zimbabwe,Africa,Non-democracy,Civilian Dict,1980,29,0,Middle
